@@ -1,0 +1,1625 @@
+{
+  "frames": [
+    {
+      "video_id": "evaluation",
+      "frame_index": 120,
+      "timestamp": 2.0,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            723.0,
+            338.0,
+            745.0,
+            360.0
+          ],
+          "confidence": 0.9420766162872315,
+          "subtype": "snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 258,
+      "timestamp": 4.3,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            522.0,
+            338.0,
+            544.0,
+            360.0
+          ],
+          "confidence": 0.9532763099670412,
+          "subtype": "snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 397,
+      "timestamp": 6.616667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            620.0,
+            302.0,
+            641.0,
+            322.0
+          ],
+          "confidence": 0.7688426723480225,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 535,
+      "timestamp": 8.916667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            520.0,
+            302.0,
+            541.0,
+            322.0
+          ],
+          "confidence": 0.8428109245300294,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 674,
+      "timestamp": 11.233333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            682.0,
+            180.0,
+            704.0,
+            202.0
+          ],
+          "confidence": 0.8971552333831787,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            563.0,
+            260.0,
+            585.0,
+            282.0
+          ],
+          "confidence": 0.8956454429626465,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            756.0,
+            139.0,
+            777.0,
+            162.0
+          ],
+          "confidence": 0.8675362606048584,
+          "subtype": "bomb"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            592.0,
+            242.0,
+            606.0,
+            262.0
+          ],
+          "confidence": 0.852780216217041,
+          "subtype": "coin"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            180.0,
+            306.0,
+            201.0,
+            322.0
+          ],
+          "confidence": 0.8406425209045411,
+          "subtype": "iceblock_stunned"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            711.0,
+            162.0,
+            725.0,
+            182.0
+          ],
+          "confidence": 0.829205062866211,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            651.0,
+            202.0,
+            665.0,
+            222.0
+          ],
+          "confidence": 0.8271596717834474,
+          "subtype": "coin"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 812,
+      "timestamp": 13.533333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "coin",
+          "bbox": [
+            427.0,
+            162.0,
+            435.0,
+            182.0
+          ],
+          "confidence": 0.923523759841919,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            361.0,
+            202.0,
+            381.0,
+            222.0
+          ],
+          "confidence": 0.8985350799560547,
+          "subtype": "coin"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            579.0,
+            139.0,
+            600.0,
+            162.0
+          ],
+          "confidence": 0.8325209636688233,
+          "subtype": "bomb"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 951,
+      "timestamp": 15.85,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            544.0,
+            243.0,
+            566.0,
+            268.0
+          ],
+          "confidence": 0.9017915973663331,
+          "subtype": "smart_snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1089,
+      "timestamp": 18.15,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            146.0,
+            328.0,
+            169.0,
+            349.0
+          ],
+          "confidence": 0.8461703662872315,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1228,
+      "timestamp": 20.466667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            611.0,
+            301.0,
+            632.0,
+            321.0
+          ],
+          "confidence": 0.8369609355926515,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1366,
+      "timestamp": 22.766667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1505,
+      "timestamp": 25.083333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            710.0,
+            247.0,
+            732.0,
+            272.0
+          ],
+          "confidence": 0.908992353439331,
+          "subtype": "smart_snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1643,
+      "timestamp": 27.383333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            672.0,
+            273.0,
+            694.0,
+            298.0
+          ],
+          "confidence": 0.8747689132690429,
+          "subtype": "smart_snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1782,
+      "timestamp": 29.7,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            369.0,
+            274.0,
+            391.0,
+            298.0
+          ],
+          "confidence": 0.9450365428924561,
+          "subtype": "smart_snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1920,
+      "timestamp": 32.0,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            549.0,
+            300.0,
+            570.0,
+            322.0
+          ],
+          "confidence": 0.8873432693481447,
+          "subtype": "bomb"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2058,
+      "timestamp": 34.3,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "coin",
+          "bbox": [
+            800.0,
+            142.0,
+            808.0,
+            162.0
+          ],
+          "confidence": 0.9098673324584962,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            800.0,
+            162.0,
+            808.0,
+            182.0
+          ],
+          "confidence": 0.9008467998504639,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            820.0,
+            142.0,
+            828.0,
+            162.0
+          ],
+          "confidence": 0.8910728034973145,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            840.0,
+            162.0,
+            848.0,
+            182.0
+          ],
+          "confidence": 0.8836719951629639,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            840.0,
+            142.0,
+            848.0,
+            162.0
+          ],
+          "confidence": 0.8824297637939453,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            820.0,
+            162.0,
+            828.0,
+            182.0
+          ],
+          "confidence": 0.8560161037445069,
+          "subtype": "coin"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2197,
+      "timestamp": 36.616667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "coin",
+          "bbox": [
+            393.0,
+            142.0,
+            413.0,
+            162.0
+          ],
+          "confidence": 0.9090967750549317,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            373.0,
+            142.0,
+            393.0,
+            162.0
+          ],
+          "confidence": 0.9058030815124511,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            373.0,
+            162.0,
+            393.0,
+            182.0
+          ],
+          "confidence": 0.9027541828155518,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            413.0,
+            142.0,
+            433.0,
+            162.0
+          ],
+          "confidence": 0.8980499744415283,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            413.0,
+            162.0,
+            433.0,
+            182.0
+          ],
+          "confidence": 0.8935220851898193,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            393.0,
+            162.0,
+            413.0,
+            182.0
+          ],
+          "confidence": 0.888221736907959,
+          "subtype": "coin"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2335,
+      "timestamp": 38.916667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            804.0,
+            340.0,
+            826.0,
+            362.0
+          ],
+          "confidence": 0.8443797206878663,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            718.0,
+            340.0,
+            740.0,
+            362.0
+          ],
+          "confidence": 0.8266303768157959,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            666.0,
+            339.0,
+            688.0,
+            361.0
+          ],
+          "confidence": 0.8059022521972656,
+          "subtype": "snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2474,
+      "timestamp": 41.233333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            828.0,
+            340.0,
+            850.0,
+            362.0
+          ],
+          "confidence": 0.8676754989624025,
+          "subtype": "snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2612,
+      "timestamp": 43.533333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            680.0,
+            338.0,
+            701.0,
+            362.0
+          ],
+          "confidence": 0.8674939117431641,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            438.0,
+            257.0,
+            463.0,
+            282.0
+          ],
+          "confidence": 0.8661764144897461,
+          "subtype": "spiky"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            623.0,
+            338.0,
+            644.0,
+            362.0
+          ],
+          "confidence": 0.8324675521850586,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            744.0,
+            338.0,
+            765.0,
+            362.0
+          ],
+          "confidence": 0.8235247764587402,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            785.0,
+            338.0,
+            806.0,
+            362.0
+          ],
+          "confidence": 0.8218521823883058,
+          "subtype": "snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2751,
+      "timestamp": 45.85,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            544.0,
+            316.0,
+            565.0,
+            340.0
+          ],
+          "confidence": 0.936065336227417,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            705.0,
+            316.0,
+            726.0,
+            340.0
+          ],
+          "confidence": 0.8701578750610353,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            629.0,
+            316.0,
+            650.0,
+            340.0
+          ],
+          "confidence": 0.8572943496704102,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            809.0,
+            317.0,
+            831.0,
+            341.0
+          ],
+          "confidence": 0.8465127143859864,
+          "subtype": "bomb"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2889,
+      "timestamp": 48.15,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            821.0,
+            279.0,
+            844.0,
+            300.0
+          ],
+          "confidence": 0.8941780796051026,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            392.0,
+            317.0,
+            414.0,
+            341.0
+          ],
+          "confidence": 0.8860718250274658,
+          "subtype": "bomb"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            291.0,
+            225.0,
+            294.0,
+            245.0
+          ],
+          "confidence": 0.8613435668945313,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            360.0,
+            279.0,
+            363.0,
+            299.0
+          ],
+          "confidence": 0.6837601604461669,
+          "subtype": "coin"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3028,
+      "timestamp": 50.466667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            520.0,
+            279.0,
+            544.0,
+            300.0
+          ],
+          "confidence": 0.890908805847168,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3166,
+      "timestamp": 52.766667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            536.0,
+            236.0,
+            559.0,
+            260.0
+          ],
+          "confidence": 0.8493621788024903,
+          "subtype": "smart_snowball"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3305,
+      "timestamp": 55.083333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "coin",
+          "bbox": [
+            689.0,
+            81.0,
+            697.0,
+            101.0
+          ],
+          "confidence": 0.9071748657226564,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            689.0,
+            61.0,
+            697.0,
+            81.0
+          ],
+          "confidence": 0.9035024204254152,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            689.0,
+            100.0,
+            697.0,
+            120.0
+          ],
+          "confidence": 0.9014809837341309,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            669.0,
+            61.0,
+            677.0,
+            81.0
+          ],
+          "confidence": 0.9002492027282716,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            669.0,
+            81.0,
+            677.0,
+            101.0
+          ],
+          "confidence": 0.898704465866089,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            669.0,
+            101.0,
+            677.0,
+            121.0
+          ],
+          "confidence": 0.8966985073089601,
+          "subtype": "coin"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            644.0,
+            260.0,
+            665.0,
+            280.0
+          ],
+          "confidence": 0.8870770835876465,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            720.0,
+            260.0,
+            741.0,
+            280.0
+          ],
+          "confidence": 0.8826966705322266,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3443,
+      "timestamp": 57.383333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            422.0,
+            264.0,
+            443.0,
+            280.0
+          ],
+          "confidence": 0.8783692016601563,
+          "subtype": "iceblock_stunned"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            460.0,
+            260.0,
+            481.0,
+            280.0
+          ],
+          "confidence": 0.8495133781433106,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            390.0,
+            100.0,
+            407.0,
+            120.0
+          ],
+          "confidence": 0.8211733531951905,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            410.0,
+            100.0,
+            427.0,
+            120.0
+          ],
+          "confidence": 0.8205682048797608,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            410.0,
+            80.0,
+            427.0,
+            100.0
+          ],
+          "confidence": 0.8154532165527344,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            410.0,
+            61.0,
+            427.0,
+            81.0
+          ],
+          "confidence": 0.8145453643798829,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            390.0,
+            61.0,
+            407.0,
+            81.0
+          ],
+          "confidence": 0.8060566940307617,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            390.0,
+            81.0,
+            407.0,
+            101.0
+          ],
+          "confidence": 0.8030242519378663,
+          "subtype": "coin"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            766.0,
+            99.0,
+            791.0,
+            125.0
+          ],
+          "confidence": 0.7655001049041749,
+          "subtype": "spiky"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3582,
+      "timestamp": 59.7,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "coin",
+          "bbox": [
+            342.0,
+            61.0,
+            356.0,
+            81.0
+          ],
+          "confidence": 0.8726881771087647,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            362.0,
+            61.0,
+            376.0,
+            81.0
+          ],
+          "confidence": 0.8684349784851075,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            342.0,
+            100.0,
+            356.0,
+            120.0
+          ],
+          "confidence": 0.8600432758331299,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            362.0,
+            100.0,
+            376.0,
+            120.0
+          ],
+          "confidence": 0.8565618915557862,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            342.0,
+            81.0,
+            356.0,
+            101.0
+          ],
+          "confidence": 0.8558766860961915,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            362.0,
+            81.0,
+            376.0,
+            101.0
+          ],
+          "confidence": 0.8540270824432373,
+          "subtype": "coin"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            819.0,
+            260.0,
+            840.0,
+            280.0
+          ],
+          "confidence": 0.8485142211914063,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            717.0,
+            113.0,
+            742.0,
+            139.0
+          ],
+          "confidence": 0.7857351188659668,
+          "subtype": "spiky"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3720,
+      "timestamp": 62.0,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            574.0,
+            260.0,
+            595.0,
+            280.0
+          ],
+          "confidence": 0.9062874660491944,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            8.0,
+            61.0,
+            16.0,
+            81.0
+          ],
+          "confidence": 0.9050250682830812,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            8.0,
+            81.0,
+            16.0,
+            101.0
+          ],
+          "confidence": 0.9038794002532959,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            28.0,
+            81.0,
+            36.0,
+            101.0
+          ],
+          "confidence": 0.8977017936706544,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            28.0,
+            101.0,
+            36.0,
+            121.0
+          ],
+          "confidence": 0.8975182666778565,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            28.0,
+            61.0,
+            36.0,
+            81.0
+          ],
+          "confidence": 0.8942255382537843,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            8.0,
+            100.0,
+            16.0,
+            120.0
+          ],
+          "confidence": 0.8936363487243653,
+          "subtype": "coin"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            499.0,
+            260.0,
+            520.0,
+            280.0
+          ],
+          "confidence": 0.8696781597137452,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3858,
+      "timestamp": 64.3,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            689.0,
+            260.0,
+            710.0,
+            280.0
+          ],
+          "confidence": 0.8433604621887207,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            24.0,
+            100.0,
+            41.0,
+            120.0
+          ],
+          "confidence": 0.8340502071380616,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            4.0,
+            61.0,
+            21.0,
+            81.0
+          ],
+          "confidence": 0.8339717998504639,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            24.0,
+            80.0,
+            41.0,
+            100.0
+          ],
+          "confidence": 0.8243214550018311,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            4.0,
+            80.0,
+            21.0,
+            100.0
+          ],
+          "confidence": 0.8169832611083985,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            4.0,
+            100.0,
+            21.0,
+            120.0
+          ],
+          "confidence": 0.8143540935516358,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            24.0,
+            61.0,
+            41.0,
+            81.0
+          ],
+          "confidence": 0.8113977241516114,
+          "subtype": "coin"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3997,
+      "timestamp": 66.616667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "coin",
+          "bbox": [
+            357.0,
+            100.0,
+            371.0,
+            120.0
+          ],
+          "confidence": 0.8699367446899414,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            357.0,
+            120.0,
+            371.0,
+            140.0
+          ],
+          "confidence": 0.8670158367156984,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            337.0,
+            100.0,
+            351.0,
+            120.0
+          ],
+          "confidence": 0.866693552017212,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            337.0,
+            120.0,
+            351.0,
+            140.0
+          ],
+          "confidence": 0.8619271335601807,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            337.0,
+            80.0,
+            351.0,
+            100.0
+          ],
+          "confidence": 0.8576631393432619,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            357.0,
+            80.0,
+            371.0,
+            100.0
+          ],
+          "confidence": 0.8532874717712403,
+          "subtype": "coin"
+        },
+        {
+          "label": "coin",
+          "bbox": [
+            542.0,
+            62.0,
+            545.0,
+            82.0
+          ],
+          "confidence": 0.8418756904602052,
+          "subtype": "coin"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4135,
+      "timestamp": 68.916667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4274,
+      "timestamp": 71.233333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            464.0,
+            301.0,
+            486.0,
+            322.0
+          ],
+          "confidence": 0.8305797748565675,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4412,
+      "timestamp": 73.533333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            720.0,
+            278.0,
+            742.0,
+            302.0
+          ],
+          "confidence": 0.8672578926086426,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            279.0,
+            301.0,
+            301.0,
+            322.0
+          ],
+          "confidence": 0.838243528366089,
+          "subtype": "iceblock"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4551,
+      "timestamp": 75.85,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            480.0,
+            299.0,
+            502.0,
+            322.0
+          ],
+          "confidence": 0.8898193473815919,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            261.0,
+            301.0,
+            283.0,
+            322.0
+          ],
+          "confidence": 0.8494824542999267,
+          "subtype": "iceblock"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            764.0,
+            190.0,
+            789.0,
+            215.0
+          ],
+          "confidence": 0.8172024517059326,
+          "subtype": "spiky"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4689,
+      "timestamp": 78.15,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            379.0,
+            299.0,
+            401.0,
+            322.0
+          ],
+          "confidence": 0.884786289215088,
+          "subtype": "snowball"
+        },
+        {
+          "label": "enemy",
+          "bbox": [
+            629.0,
+            165.0,
+            654.0,
+            190.0
+          ],
+          "confidence": 0.7893256816864014,
+          "subtype": "spiky"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4828,
+      "timestamp": 80.466667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": [
+        {
+          "label": "enemy",
+          "bbox": [
+            524.0,
+            151.0,
+            549.0,
+            176.0
+          ],
+          "confidence": 0.7713147926330567,
+          "subtype": "spiky"
+        }
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4966,
+      "timestamp": 82.766667,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5105,
+      "timestamp": 85.083333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5243,
+      "timestamp": 87.383333,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5382,
+      "timestamp": 89.7,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5520,
+      "timestamp": 92.0,
+      "processed_size": [
+        854,
+        480
+      ],
+      "detections": []
+    }
+  ]
+}

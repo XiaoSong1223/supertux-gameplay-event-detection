@@ -1,0 +1,452 @@
+{
+  "schema_version": "1.0",
+  "video_id": "evaluation",
+  "source_video": "data/videos/evaluation.webm",
+  "source_fps": 60.0,
+  "processed_size": [854, 480],
+  "annotator": "AI-assisted visual annotation, not independently human audited",
+  "annotation_method": "Manual visual inspection of the 40 frozen raw source frames; no detector output, source-level coordinates, or game-engine state used.",
+  "separation_note": "Annotation was delegated before the root implementation owner froze detector configuration. The annotator remained isolated from detector output and withheld all labels and visual findings from the implementation owner until freeze; held-out inference still occurs only after freeze.",
+  "selection": {
+    "count": 40,
+    "interval_seconds": [2.0, 92.0],
+    "rule": "linspace including endpoints, mapped to nearest 60 fps source frame",
+    "frozen_before_inference": true
+  },
+  "scope_notes": [
+    "Boxes tightly cover visible sprite pixels in the 854x480 frame.",
+    "HUD coin icons/digits, sign illustrations, non-coin power-ups, and projectiles are excluded.",
+    "Recognizable enemy variants and transformed/occluded enemy sprites are included.",
+    "Non-HUD world coins are included in round and edge-on animation poses."
+  ],
+  "frames": [
+    {
+      "video_id": "evaluation",
+      "frame_index": 120,
+      "timestamp": 2.0,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [721, 337, 746, 361], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 258,
+      "timestamp": 4.3,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [520, 337, 545, 361], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 397,
+      "timestamp": 6.616667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [337, 222, 352, 244], "subtype": "world_coin"},
+        {"label": "enemy", "bbox": [619, 300, 643, 322], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 535,
+      "timestamp": 8.916667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [518, 300, 542, 322], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 674,
+      "timestamp": 11.233333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [562, 258, 587, 282], "subtype": "snowball_gray"},
+        {"label": "coin", "bbox": [590, 240, 607, 263], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [650, 200, 667, 223], "subtype": "world_coin"},
+        {"label": "enemy", "bbox": [681, 179, 707, 203], "subtype": "snowball_gray"},
+        {"label": "coin", "bbox": [710, 160, 727, 183], "subtype": "world_coin"},
+        {"label": "enemy", "bbox": [753, 137, 780, 163], "subtype": "iceblock_blue"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 812,
+      "timestamp": 13.533333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [426, 160, 436, 183], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [357, 200, 382, 223], "subtype": "world_coin", "occluded": true},
+        {"label": "enemy", "bbox": [578, 139, 602, 164], "subtype": "iceblock_blue"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 951,
+      "timestamp": 15.85,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [270, 167, 298, 191], "subtype": "bomb_purple"},
+        {"label": "enemy", "bbox": [543, 240, 571, 270], "subtype": "snowball_pink"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1089,
+      "timestamp": 18.15,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [144, 327, 169, 351], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1228,
+      "timestamp": 20.466667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [609, 299, 634, 322], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1366,
+      "timestamp": 22.766667,
+      "processed_size": [854, 480],
+      "objects": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1505,
+      "timestamp": 25.083333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [708, 245, 735, 272], "subtype": "snowball_pink"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1643,
+      "timestamp": 27.383333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [671, 271, 697, 300], "subtype": "snowball_pink"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1782,
+      "timestamp": 29.7,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [367, 272, 394, 300], "subtype": "snowball_pink"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 1920,
+      "timestamp": 32.0,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [547, 299, 572, 322], "subtype": "iceblock_blue"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2058,
+      "timestamp": 34.3,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [798, 140, 813, 162], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [819, 140, 834, 162], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [840, 140, 854, 162], "subtype": "world_coin_edge_on", "truncated": true},
+        {"label": "coin", "bbox": [798, 161, 813, 183], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [819, 161, 834, 183], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [840, 161, 854, 183], "subtype": "world_coin_edge_on", "truncated": true}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2197,
+      "timestamp": 36.616667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [372, 140, 394, 162], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [393, 140, 415, 162], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [414, 140, 435, 162], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [372, 161, 394, 183], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [393, 161, 415, 183], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [414, 161, 435, 183], "subtype": "world_coin"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2335,
+      "timestamp": 38.916667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [553, 257, 579, 283], "subtype": "spiky"},
+        {"label": "enemy", "bbox": [667, 337, 691, 361], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [715, 338, 740, 361], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [801, 337, 826, 361], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2474,
+      "timestamp": 41.233333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [720, 257, 747, 283], "subtype": "spiky"},
+        {"label": "enemy", "bbox": [831, 337, 854, 361], "subtype": "snowball_gray", "truncated": true}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2612,
+      "timestamp": 43.533333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [437, 255, 464, 282], "subtype": "spiky"},
+        {"label": "enemy", "bbox": [619, 338, 645, 361], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [678, 338, 704, 361], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [740, 337, 766, 361], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [784, 338, 810, 361], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2751,
+      "timestamp": 45.85,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [334, 325, 358, 351], "subtype": "snowball_gray", "occluded": true},
+        {"label": "enemy", "bbox": [543, 315, 569, 341], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [629, 316, 655, 341], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [703, 316, 729, 341], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [805, 315, 832, 341], "subtype": "iceblock_blue"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 2889,
+      "timestamp": 48.15,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [288, 224, 297, 247], "subtype": "world_coin_edge_on"},
+        {"label": "enemy", "bbox": [390, 316, 416, 341], "subtype": "iceblock_blue"},
+        {"label": "enemy", "bbox": [821, 278, 848, 304], "subtype": "snowball_pink"},
+        {"label": "enemy", "bbox": [206, 436, 231, 466], "subtype": "snowball_gray", "state": "falling_defeated"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3028,
+      "timestamp": 50.466667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [517, 278, 544, 304], "subtype": "snowball_pink"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3166,
+      "timestamp": 52.766667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [533, 231, 560, 260], "subtype": "snowball_pink"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3305,
+      "timestamp": 55.083333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [668, 59, 680, 80], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [689, 59, 701, 80], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [668, 79, 680, 100], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [689, 79, 701, 100], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [668, 99, 680, 121], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [689, 99, 701, 121], "subtype": "world_coin_edge_on"},
+        {"label": "enemy", "bbox": [641, 259, 667, 283], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [718, 259, 744, 283], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3443,
+      "timestamp": 57.383333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [389, 59, 408, 80], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [409, 59, 428, 80], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [389, 79, 408, 100], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [409, 79, 428, 100], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [389, 99, 408, 121], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [409, 99, 428, 121], "subtype": "world_coin"},
+        {"label": "enemy", "bbox": [459, 258, 485, 282], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [764, 98, 792, 133], "subtype": "spiky"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3582,
+      "timestamp": 59.7,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [341, 59, 357, 80], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [362, 59, 378, 80], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [341, 79, 357, 100], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [362, 79, 378, 100], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [341, 99, 357, 121], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [362, 99, 378, 121], "subtype": "world_coin_edge_on"},
+        {"label": "enemy", "bbox": [715, 114, 743, 147], "subtype": "spiky"},
+        {"label": "enemy", "bbox": [817, 258, 843, 282], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3720,
+      "timestamp": 62.0,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [6, 59, 17, 80], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [27, 59, 38, 80], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [6, 79, 17, 100], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [27, 79, 38, 100], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [6, 99, 17, 121], "subtype": "world_coin_edge_on"},
+        {"label": "coin", "bbox": [27, 99, 38, 121], "subtype": "world_coin_edge_on"},
+        {"label": "enemy", "bbox": [379, 131, 405, 176], "subtype": "spiky"},
+        {"label": "enemy", "bbox": [496, 258, 522, 282], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [573, 258, 599, 282], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3858,
+      "timestamp": 64.3,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [3, 59, 22, 80], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [23, 59, 42, 80], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [3, 79, 22, 100], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [23, 79, 42, 100], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [3, 99, 22, 121], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [23, 99, 42, 121], "subtype": "world_coin"},
+        {"label": "enemy", "bbox": [378, 173, 406, 205], "subtype": "spiky"},
+        {"label": "enemy", "bbox": [686, 257, 712, 282], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 3997,
+      "timestamp": 66.616667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [335, 79, 354, 100], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [355, 79, 374, 100], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [335, 99, 354, 120], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [355, 99, 374, 120], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [335, 119, 354, 140], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [355, 119, 374, 140], "subtype": "world_coin"},
+        {"label": "coin", "bbox": [540, 61, 548, 83], "subtype": "world_coin_edge_on"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4135,
+      "timestamp": 68.916667,
+      "processed_size": [854, 480],
+      "objects": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4274,
+      "timestamp": 71.233333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [461, 299, 487, 322], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4412,
+      "timestamp": 73.533333,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "coin", "bbox": [377, 87, 385, 110], "subtype": "world_coin_edge_on"},
+        {"label": "enemy", "bbox": [717, 273, 744, 300], "subtype": "snowball_gray"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4551,
+      "timestamp": 75.85,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [259, 299, 285, 322], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [479, 297, 506, 322], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [764, 188, 791, 223], "subtype": "spiky"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4689,
+      "timestamp": 78.15,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [378, 296, 404, 322], "subtype": "snowball_gray"},
+        {"label": "enemy", "bbox": [628, 163, 656, 197], "subtype": "spiky"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4828,
+      "timestamp": 80.466667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [523, 149, 550, 183], "subtype": "spiky"}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 4966,
+      "timestamp": 82.766667,
+      "processed_size": [854, 480],
+      "objects": [
+        {"label": "enemy", "bbox": [315, 244, 344, 273], "subtype": "spiky", "occluded": true}
+      ]
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5105,
+      "timestamp": 85.083333,
+      "processed_size": [854, 480],
+      "objects": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5243,
+      "timestamp": 87.383333,
+      "processed_size": [854, 480],
+      "objects": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5382,
+      "timestamp": 89.7,
+      "processed_size": [854, 480],
+      "objects": []
+    },
+    {
+      "video_id": "evaluation",
+      "frame_index": 5520,
+      "timestamp": 92.0,
+      "processed_size": [854, 480],
+      "objects": []
+    }
+  ]
+}

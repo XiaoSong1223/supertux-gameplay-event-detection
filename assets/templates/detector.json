@@ -1,0 +1,440 @@
+{
+  "processed_width": 854,
+  "sprite_scales": [
+    0.625
+  ],
+  "hud_exclusion_height": 28,
+  "proposal_threshold": 0.57,
+  "thresholds": {
+    "enemy": 0.76,
+    "coin": 0.7
+  },
+  "max_color_mae": {
+    "enemy": 52,
+    "coin": 45
+  },
+  "max_proposals_per_template": 120,
+  "nms_iou": 0.3,
+  "templates": [
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-0.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-1.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-2.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-3.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-4.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-5.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-6.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/snowball-7.png",
+      "label": "enemy",
+      "subtype": "snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-0.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-1.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-2.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-3.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-4.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-5.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-6.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/snowball/smartball-7.png",
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-0.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-1.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-2.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-3.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-4.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-5.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-6.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/iceblock-7.png",
+      "label": "enemy",
+      "subtype": "iceblock",
+      "vertical_flip": true
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/stomped-0.png",
+      "label": "enemy",
+      "subtype": "iceblock_stunned",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/waking-0.png",
+      "label": "enemy",
+      "subtype": "iceblock_stunned",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/waking-3.png",
+      "label": "enemy",
+      "subtype": "iceblock_stunned",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_iceblock/waking-6.png",
+      "label": "enemy",
+      "subtype": "iceblock_stunned",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/jumpy/left-down.png",
+      "label": "enemy",
+      "subtype": "jumpy",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/jumpy/left-middle.png",
+      "label": "enemy",
+      "subtype": "jumpy",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/jumpy/left-up.png",
+      "label": "enemy",
+      "subtype": "jumpy",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/jumpy/wooden-down.png",
+      "label": "enemy",
+      "subtype": "wooden_jumpy",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/jumpy/wooden-middle.png",
+      "label": "enemy",
+      "subtype": "wooden_jumpy",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/jumpy/wooden-up.png",
+      "label": "enemy",
+      "subtype": "wooden_jumpy",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk1.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk2.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk3.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk4.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk5.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk6.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk7.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/spiky/spikywalk8.png",
+      "label": "enemy",
+      "subtype": "spiky",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb1.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb2.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb3.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb4.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb5.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb6.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb7.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/mr_bomb/bomb8.png",
+      "label": "enemy",
+      "subtype": "bomb",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/flying_snowball/left-0.png",
+      "label": "enemy",
+      "subtype": "flying_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/flying_snowball/left-1.png",
+      "label": "enemy",
+      "subtype": "flying_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/flying_snowball/left-2.png",
+      "label": "enemy",
+      "subtype": "flying_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/creatures/flying_snowball/left-3.png",
+      "label": "enemy",
+      "subtype": "flying_snowball",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-0.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-1.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-10.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-11.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-12.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-13.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-14.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-15.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-2.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-3.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-4.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-5.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-6.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-7.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-8.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    },
+    {
+      "path": "../upstream/data/images/objects/coin/coin-9.png",
+      "label": "coin",
+      "subtype": "coin",
+      "vertical_flip": false
+    }
+  ]
+}

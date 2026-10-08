@@ -1,0 +1,201 @@
+{
+  "ground_truth_sha256": "e757de34c4ed63501554d2a41a2d49f95115eb739fd6e16565f1ab605694f824",
+  "scope": "45 frames at 5 fps in three predefined 3-second windows; AI visual labels",
+  "prediction_policy": "Observed and temporarily predicted tracks are both scored",
+  "tracking": {
+    "iou_threshold": 0.5,
+    "annotated_frame_count": 45,
+    "ground_truth_track_count": 18,
+    "ground_truth_observations": 120,
+    "matched_observations": 85,
+    "observation_recall": 0.7083333333333334,
+    "identity_metrics_available": true,
+    "identity_switches": 3,
+    "fragments": 6,
+    "missing_ground_truth_object_ids": 0,
+    "matched_predictions_missing_track_id": 0,
+    "tracks": [
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "coin",
+        "object_id": "track-01-coin-a",
+        "ground_truth_observations": 8,
+        "matched_observations": 5,
+        "identity_switches": 0,
+        "fragments": 2
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "coin",
+        "object_id": "track-01-coin-b",
+        "ground_truth_observations": 6,
+        "matched_observations": 5,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "coin",
+        "object_id": "track-01-coin-c",
+        "ground_truth_observations": 5,
+        "matched_observations": 3,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "enemy",
+        "object_id": "track-01-enemy-a",
+        "ground_truth_observations": 10,
+        "matched_observations": 10,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "enemy",
+        "object_id": "track-01-enemy-b",
+        "ground_truth_observations": 6,
+        "matched_observations": 5,
+        "identity_switches": 0,
+        "fragments": 1
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "enemy",
+        "object_id": "track-01-enemy-c",
+        "ground_truth_observations": 4,
+        "matched_observations": 2,
+        "identity_switches": 0,
+        "fragments": 1
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-01",
+        "label": "enemy",
+        "object_id": "track-01-enemy-d",
+        "ground_truth_observations": 2,
+        "matched_observations": 1,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-02",
+        "label": "enemy",
+        "object_id": "track-02-enemy-a",
+        "ground_truth_observations": 15,
+        "matched_observations": 15,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-02",
+        "label": "enemy",
+        "object_id": "track-02-enemy-b",
+        "ground_truth_observations": 15,
+        "matched_observations": 13,
+        "identity_switches": 0,
+        "fragments": 1
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-02",
+        "label": "enemy",
+        "object_id": "track-02-enemy-c",
+        "ground_truth_observations": 12,
+        "matched_observations": 10,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-02",
+        "label": "enemy",
+        "object_id": "track-02-enemy-spiky",
+        "ground_truth_observations": 15,
+        "matched_observations": 0,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "coin",
+        "object_id": "track-03-coin-a",
+        "ground_truth_observations": 2,
+        "matched_observations": 1,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "coin",
+        "object_id": "track-03-coin-b",
+        "ground_truth_observations": 1,
+        "matched_observations": 1,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "coin",
+        "object_id": "track-03-coin-c",
+        "ground_truth_observations": 1,
+        "matched_observations": 1,
+        "identity_switches": 0,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "coin",
+        "object_id": "track-03-coin-d",
+        "ground_truth_observations": 3,
+        "matched_observations": 2,
+        "identity_switches": 1,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "coin",
+        "object_id": "track-03-coin-e",
+        "ground_truth_observations": 3,
+        "matched_observations": 2,
+        "identity_switches": 1,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "coin",
+        "object_id": "track-03-coin-f",
+        "ground_truth_observations": 3,
+        "matched_observations": 2,
+        "identity_switches": 1,
+        "fragments": 0
+      },
+      {
+        "video_id": "evaluation",
+        "segment_id": "track-03",
+        "label": "enemy",
+        "object_id": "track-03-enemy-a",
+        "ground_truth_observations": 9,
+        "matched_observations": 7,
+        "identity_switches": 0,
+        "fragments": 1
+      }
+    ],
+    "caveat": "Identity counts describe only the densely annotated segments and visibility-episode IDs; they do not establish persistent game-world identity."
+  }
+}

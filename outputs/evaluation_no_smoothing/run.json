@@ -1,0 +1,71 @@
+{
+  "cache_used": true,
+  "confidence_note": "Detection, track, HUD, and event confidence values are uncalibrated heuristic evidence scores, not probabilities.",
+  "demo_audio": "omitted",
+  "demo_video_error": null,
+  "event_counts": {
+    "enemy_detected": 49,
+    "enemy_disappeared": 49,
+    "item_detected": 48
+  },
+  "parameters": {
+    "camera_motion": {
+      "cut_correlation_threshold": 0.3,
+      "cut_difference_threshold": 0.08,
+      "fb_max_error": 1.5,
+      "hud_height": 28,
+      "max_corners": 500,
+      "max_translation": 96.0,
+      "min_distance": 7.0,
+      "min_inlier_ratio": 0.45,
+      "min_points": 12,
+      "quality_level": 0.01
+    },
+    "coin_counter": {
+      "confirm_frames": 3,
+      "confirm_seconds": 0.08,
+      "max_digits": 4,
+      "min_read_confidence": 0.58
+    },
+    "end_seconds": 92.0,
+    "event_engine": {
+      "appearance_confirmation_hits": 1,
+      "appearance_confirmation_seconds": null,
+      "disappearance_grace_seconds": 0.0
+    },
+    "hud_enabled": true,
+    "processed_width": 854,
+    "processing_fps": 15.0,
+    "sample_stride": 4,
+    "smoothing": false,
+    "source_duration_seconds": 94.95,
+    "source_fps": 60.0,
+    "source_frame_count": 5697,
+    "source_height": 480,
+    "source_width": 854,
+    "start_seconds": 2.0,
+    "tracker": {
+      "confirmation_hits": 1,
+      "distance_weight": 0.35,
+      "max_age_seconds": 0.35,
+      "max_center_distance": 35.0,
+      "min_iou": 0.01,
+      "velocity_smoothing": 0.5
+    },
+    "video_enabled": false,
+    "workers": 2
+  },
+  "processed_frames": 1350,
+  "scene_cuts": [],
+  "sources": {
+    "detector_code_sha256": "e1c8f788fd181dd6eec4327481724e73dde777ce513d4dd9e492b7cc320894cf",
+    "detector_config": "/Users/xiaosongxiaosong/Documents/Razer Inter/assets/templates/detector.json",
+    "detector_config_sha256": "66a9189cd1e67d4722d8861f39dd4b456aa460d22c062ce2253ddc2c982f6ba8",
+    "raw_detection_cache": "/Users/xiaosongxiaosong/Documents/Razer Inter/outputs/evaluation/raw_detections.jsonl",
+    "video": "/Users/xiaosongxiaosong/Documents/Razer Inter/data/videos/evaluation.webm",
+    "video_sha256": "43ac46cb2faf3d8d325a2e2eca11c37512cc392d5d1ae529770e7a39b5efacee"
+  },
+  "timings": {
+    "analysis_wall_seconds": 18.58715141704306
+  }
+}

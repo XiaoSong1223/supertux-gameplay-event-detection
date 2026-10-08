@@ -1,0 +1,3612 @@
+[
+  {
+    "confidence": 0.9325985984802246,
+    "confirmed_at": 2.1333333333333333,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        604.0,
+        296.0,
+        626.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.1333333333333333
+    },
+    "timestamp": 2.0,
+    "track_id": 1
+  },
+  {
+    "confidence": 0.8085192012786866,
+    "confirmed_at": 2.1333333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        825.0,
+        200.0,
+        833.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333333
+    },
+    "timestamp": 2.0,
+    "track_id": 2
+  },
+  {
+    "confidence": 0.813507818222046,
+    "confirmed_at": 2.2666666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        845.0,
+        201.0,
+        853.0,
+        221.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333333
+    },
+    "timestamp": 2.1333333333333333,
+    "track_id": 3
+  },
+  {
+    "confidence": 0.7961252212524415,
+    "confirmed_at": 2.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        845.0,
+        200.0,
+        853.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333333
+    },
+    "timestamp": 2.6666666666666665,
+    "track_id": 4
+  },
+  {
+    "confidence": 0.8023954181671143,
+    "confirmed_at": 3.3333333333333335,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        845.0,
+        200.0,
+        853.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333333
+    },
+    "timestamp": 3.2,
+    "track_id": 5
+  },
+  {
+    "confidence": 0.7970334987640382,
+    "confirmed_at": 3.8666666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        845.0,
+        200.0,
+        853.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333333
+    },
+    "timestamp": 3.7333333333333334,
+    "track_id": 6
+  },
+  {
+    "confidence": 0.8248426570892334,
+    "confirmed_at": 4.133333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        329.0,
+        203.0,
+        332.0,
+        223.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333375
+    },
+    "timestamp": 4.0,
+    "track_id": 7
+  },
+  {
+    "confidence": 0.7812411251068115,
+    "confirmed_at": 4.4,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        838.0,
+        200.0,
+        846.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333375
+    },
+    "timestamp": 4.266666666666667,
+    "track_id": 8
+  },
+  {
+    "confidence": 0.8534181327819824,
+    "confirmed_at": 4.533333333333333,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        808.0,
+        296.0,
+        830.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 4.4,
+    "track_id": 9
+  },
+  {
+    "confidence": 0.8069794430661598,
+    "confirmed_at": 4.866666666666666,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 1,
+      "new_count": 108,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "108",
+      "old_count": 107,
+      "support_frames": 3
+    },
+    "timestamp": 4.733333333333333,
+    "track_id": null
+  },
+  {
+    "confidence": 0.7330517768859863,
+    "confirmed_at": 5.333333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        841.0,
+        200.0,
+        849.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 5.2,
+    "track_id": 11
+  },
+  {
+    "confidence": 0.7707266426086425,
+    "confirmed_at": 5.533333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        777.0,
+        200.0,
+        791.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 5.4,
+    "track_id": 12
+  },
+  {
+    "confidence": 0.7829761772155762,
+    "confirmed_at": 5.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        831.0,
+        200.0,
+        848.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 5.466666666666667,
+    "track_id": 13
+  },
+  {
+    "confidence": 0.8513827304840088,
+    "confirmed_at": 6.266666666666667,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        345.0,
+        296.0,
+        366.0,
+        320.0
+      ],
+      "last_seen": 5.8,
+      "missing_seconds": 0.40000000000000036,
+      "subtype": "snowball"
+    },
+    "timestamp": 5.866666666666666,
+    "track_id": 1
+  },
+  {
+    "confidence": 0.8179785175323486,
+    "confirmed_at": 7.0,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        818.0,
+        241.0,
+        821.0,
+        261.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333375
+    },
+    "timestamp": 6.866666666666666,
+    "track_id": 14
+  },
+  {
+    "confidence": 0.8046737728118898,
+    "confirmed_at": 7.133333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        807.0,
+        240.0,
+        821.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333375
+    },
+    "timestamp": 7.0,
+    "track_id": 15
+  },
+  {
+    "confidence": 0.85707883644104,
+    "confirmed_at": 7.2,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        816.0,
+        240.0,
+        833.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333375
+    },
+    "timestamp": 7.066666666666666,
+    "track_id": 16
+  },
+  {
+    "confidence": 0.8324534816741944,
+    "confirmed_at": 7.333333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        817.0,
+        240.0,
+        834.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 7.2,
+    "track_id": 17
+  },
+  {
+    "confidence": 0.8949749698638916,
+    "confirmed_at": 7.933333333333334,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        337.0,
+        296.0,
+        359.0,
+        320.0
+      ],
+      "last_seen": 7.466666666666667,
+      "missing_seconds": 0.40000000000000036,
+      "subtype": "smart_snowball"
+    },
+    "timestamp": 7.533333333333333,
+    "track_id": 9
+  },
+  {
+    "confidence": 0.9325297946929931,
+    "confirmed_at": 8.0,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        819.0,
+        298.0,
+        841.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333375
+    },
+    "timestamp": 7.866666666666666,
+    "track_id": 18
+  },
+  {
+    "confidence": 0.8114219455718995,
+    "confirmed_at": 9.866666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        200.0,
+        841.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333464
+    },
+    "timestamp": 9.733333333333333,
+    "track_id": 19
+  },
+  {
+    "confidence": 0.7304359703063965,
+    "confirmed_at": 10.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        835.0,
+        200.0,
+        843.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 10.0,
+    "track_id": 20
+  },
+  {
+    "confidence": 0.8408958892822266,
+    "confirmed_at": 10.866666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        829.0,
+        200.0,
+        843.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333464
+    },
+    "timestamp": 10.733333333333333,
+    "track_id": 21
+  },
+  {
+    "confidence": 0.8026097660064697,
+    "confirmed_at": 11.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        817.0,
+        200.0,
+        831.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 11.0,
+    "track_id": 23
+  },
+  {
+    "confidence": 0.7481478252410889,
+    "confirmed_at": 11.333333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        204.0,
+        200.0,
+        212.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333464
+    },
+    "timestamp": 11.2,
+    "track_id": 24
+  },
+  {
+    "confidence": 0.7296669788360596,
+    "confirmed_at": 11.333333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        224.0,
+        200.0,
+        232.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333464
+    },
+    "timestamp": 11.2,
+    "track_id": 25
+  },
+  {
+    "confidence": 0.7270939292907715,
+    "confirmed_at": 11.333333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        244.0,
+        200.0,
+        252.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333464
+    },
+    "timestamp": 11.2,
+    "track_id": 26
+  },
+  {
+    "confidence": 0.8487373275756837,
+    "confirmed_at": 11.466666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        300.0,
+        845.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "iceblock",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 11.333333333333334,
+    "track_id": 28
+  },
+  {
+    "confidence": 0.8314400482177735,
+    "confirmed_at": 11.533333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        258.0,
+        200.0,
+        278.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 11.4,
+    "track_id": 22
+  },
+  {
+    "confidence": 0.8282723503112793,
+    "confirmed_at": 11.933333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        353.0,
+        200.0,
+        367.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 11.8,
+    "track_id": 27
+  },
+  {
+    "confidence": 0.9116018924713135,
+    "confirmed_at": 12.066666666666666,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        823.0,
+        299.0,
+        847.0,
+        320.0
+      ],
+      "last_seen": 11.6,
+      "missing_seconds": 0.40000000000000036,
+      "subtype": "iceblock"
+    },
+    "timestamp": 11.666666666666666,
+    "track_id": 28
+  },
+  {
+    "confidence": 0.7749270133972168,
+    "confirmed_at": 12.933333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        465.0,
+        200.0,
+        473.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 12.8,
+    "track_id": 29
+  },
+  {
+    "confidence": 0.7369235343933106,
+    "confirmed_at": 13.0,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        487.0,
+        200.0,
+        501.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 12.866666666666667,
+    "track_id": 30
+  },
+  {
+    "confidence": 0.922989170074463,
+    "confirmed_at": 14.0,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        831.0,
+        296.0,
+        853.0,
+        320.0
+      ],
+      "last_seen": 13.533333333333333,
+      "missing_seconds": 0.40000000000000036,
+      "subtype": "snowball"
+    },
+    "timestamp": 13.6,
+    "track_id": 18
+  },
+  {
+    "confidence": 0.8346924343109131,
+    "confirmed_at": 14.4,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        797.0,
+        240.0,
+        805.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 14.266666666666667,
+    "track_id": 31
+  },
+  {
+    "confidence": 0.9500288982391357,
+    "confirmed_at": 14.533333333333333,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        797.0,
+        298.0,
+        819.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 14.4,
+    "track_id": 32
+  },
+  {
+    "confidence": 0.8248882751464844,
+    "confirmed_at": 15.066666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        782.0,
+        201.0,
+        790.0,
+        221.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 14.933333333333334,
+    "track_id": 33
+  },
+  {
+    "confidence": 0.8352731933593751,
+    "confirmed_at": 15.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        777.0,
+        200.0,
+        791.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 15.0,
+    "track_id": 34
+  },
+  {
+    "confidence": 0.7625470905303955,
+    "confirmed_at": 15.2,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        797.0,
+        200.0,
+        814.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 15.066666666666666,
+    "track_id": 35
+  },
+  {
+    "confidence": 0.8000195579528808,
+    "confirmed_at": 15.2,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        777.0,
+        200.0,
+        794.0,
+        220.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 15.066666666666666,
+    "track_id": 36
+  },
+  {
+    "confidence": 0.8881349678039552,
+    "confirmed_at": 16.666666666666668,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        798.0,
+        299.0,
+        821.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "iceblock",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 16.533333333333335,
+    "track_id": 37
+  },
+  {
+    "confidence": 0.9488949413299561,
+    "confirmed_at": 16.8,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        807.0,
+        298.0,
+        829.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 16.666666666666668,
+    "track_id": 38
+  },
+  {
+    "confidence": 0.8846204357147217,
+    "confirmed_at": 17.266666666666666,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        797.0,
+        296.0,
+        818.0,
+        320.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 17.133333333333333,
+    "track_id": 39
+  },
+  {
+    "confidence": 0.9191512565612794,
+    "confirmed_at": 17.666666666666668,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        340.0,
+        298.0,
+        362.0,
+        320.0
+      ],
+      "last_seen": 17.2,
+      "missing_seconds": 0.40000000000000213,
+      "subtype": "snowball"
+    },
+    "timestamp": 17.266666666666666,
+    "track_id": 32
+  },
+  {
+    "confidence": 0.6879037222555551,
+    "confirmed_at": 18.533333333333335,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 12,
+      "new_count": 120,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "120",
+      "old_count": 108,
+      "support_frames": 3
+    },
+    "timestamp": 18.4,
+    "track_id": null
+  },
+  {
+    "confidence": 0.8520639266967774,
+    "confirmed_at": 19.0,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        807.0,
+        240.0,
+        827.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 18.866666666666667,
+    "track_id": 40
+  },
+  {
+    "confidence": 0.7443499350759228,
+    "confirmed_at": 19.0,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 3,
+      "new_count": 123,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "123",
+      "old_count": 120,
+      "support_frames": 3
+    },
+    "timestamp": 18.866666666666667,
+    "track_id": null
+  },
+  {
+    "confidence": 0.7556378593444825,
+    "confirmed_at": 19.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        807.0,
+        240.0,
+        821.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 19.0,
+    "track_id": 41
+  },
+  {
+    "confidence": 0.7938900508880616,
+    "confirmed_at": 19.2,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        821.0,
+        240.0,
+        829.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 19.066666666666666,
+    "track_id": 42
+  },
+  {
+    "confidence": 0.7830380325317383,
+    "confirmed_at": 19.333333333333332,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        825.0,
+        240.0,
+        833.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 19.2,
+    "track_id": 43
+  },
+  {
+    "confidence": 0.7914528541564942,
+    "confirmed_at": 19.466666666666665,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        830.0,
+        240.0,
+        847.0,
+        260.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 19.333333333333332,
+    "track_id": 44
+  },
+  {
+    "confidence": 0.7464987640380859,
+    "confirmed_at": 20.4,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        842.0,
+        180.0,
+        850.0,
+        200.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 20.266666666666666,
+    "track_id": 45
+  },
+  {
+    "confidence": 0.7814464073181152,
+    "confirmed_at": 20.933333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        835.0,
+        180.0,
+        843.0,
+        200.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 20.8,
+    "track_id": 46
+  },
+  {
+    "confidence": 0.8516371326446535,
+    "confirmed_at": 21.0,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        294.0,
+        456.0,
+        315.0,
+        476.0
+      ],
+      "last_seen": 20.533333333333335,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "iceblock"
+    },
+    "timestamp": 20.6,
+    "track_id": 37
+  },
+  {
+    "confidence": 0.8073212890625,
+    "confirmed_at": 21.466666666666665,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        839.0,
+        181.0,
+        847.0,
+        201.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 21.333333333333332,
+    "track_id": 47
+  },
+  {
+    "confidence": 0.8880119609832764,
+    "confirmed_at": 21.733333333333334,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        343.0,
+        296.0,
+        364.0,
+        320.0
+      ],
+      "last_seen": 21.266666666666666,
+      "missing_seconds": 0.40000000000000213,
+      "subtype": "snowball"
+    },
+    "timestamp": 21.333333333333332,
+    "track_id": 38
+  },
+  {
+    "confidence": 0.8803304634094239,
+    "confirmed_at": 22.733333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        704.0,
+        180.0,
+        724.0,
+        200.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 22.6,
+    "track_id": 48
+  },
+  {
+    "confidence": 0.8566705932617188,
+    "confirmed_at": 22.733333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        724.0,
+        180.0,
+        744.0,
+        200.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 22.6,
+    "track_id": 49
+  },
+  {
+    "confidence": 0.8911056156158448,
+    "confirmed_at": 23.8,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        353.0,
+        295.0,
+        375.0,
+        320.0
+      ],
+      "last_seen": 23.333333333333332,
+      "missing_seconds": 0.40000000000000213,
+      "subtype": "smart_snowball"
+    },
+    "timestamp": 23.4,
+    "track_id": 39
+  },
+  {
+    "confidence": 0.8779952087402345,
+    "confirmed_at": 26.2,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        793.0,
+        217.0,
+        815.0,
+        240.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 26.066666666666666,
+    "track_id": 50
+  },
+  {
+    "confidence": 0.8118070752087099,
+    "confirmed_at": 26.8,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 5,
+      "new_count": 128,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "128",
+      "old_count": 123,
+      "support_frames": 3
+    },
+    "timestamp": 26.666666666666668,
+    "track_id": null
+  },
+  {
+    "confidence": 0.9023947582244873,
+    "confirmed_at": 27.533333333333335,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        801.0,
+        112.0,
+        821.0,
+        132.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333364
+    },
+    "timestamp": 27.4,
+    "track_id": 51
+  },
+  {
+    "confidence": 0.9065093593597413,
+    "confirmed_at": 27.533333333333335,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        801.0,
+        132.0,
+        821.0,
+        152.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333364
+    },
+    "timestamp": 27.4,
+    "track_id": 52
+  },
+  {
+    "confidence": 0.9158159580230714,
+    "confirmed_at": 27.533333333333335,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        801.0,
+        152.0,
+        821.0,
+        172.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333364
+    },
+    "timestamp": 27.4,
+    "track_id": 53
+  },
+  {
+    "confidence": 0.8127897720336914,
+    "confirmed_at": 27.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        120.0,
+        827.0,
+        140.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333364
+    },
+    "timestamp": 27.466666666666665,
+    "track_id": 54
+  },
+  {
+    "confidence": 0.7701099185943604,
+    "confirmed_at": 27.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        160.0,
+        827.0,
+        180.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333364
+    },
+    "timestamp": 27.466666666666665,
+    "track_id": 55
+  },
+  {
+    "confidence": 0.816149570465088,
+    "confirmed_at": 27.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        140.0,
+        827.0,
+        160.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.1333333333333364
+    },
+    "timestamp": 27.466666666666665,
+    "track_id": 56
+  },
+  {
+    "confidence": 0.8581865234375,
+    "confirmed_at": 27.733333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        812.0,
+        121.0,
+        820.0,
+        141.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.6,
+    "track_id": 57
+  },
+  {
+    "confidence": 0.8511640491485597,
+    "confirmed_at": 27.733333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        812.0,
+        141.0,
+        820.0,
+        161.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.6,
+    "track_id": 58
+  },
+  {
+    "confidence": 0.7960845832824708,
+    "confirmed_at": 27.733333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        812.0,
+        160.0,
+        820.0,
+        180.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.6,
+    "track_id": 59
+  },
+  {
+    "confidence": 0.9330823059082032,
+    "confirmed_at": 27.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        826.0,
+        121.0,
+        829.0,
+        141.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.666666666666668,
+    "track_id": 60
+  },
+  {
+    "confidence": 0.935245367050171,
+    "confirmed_at": 27.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        826.0,
+        141.0,
+        829.0,
+        161.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.666666666666668,
+    "track_id": 61
+  },
+  {
+    "confidence": 0.911458553314209,
+    "confirmed_at": 27.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        826.0,
+        161.0,
+        829.0,
+        181.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.666666666666668,
+    "track_id": 62
+  },
+  {
+    "confidence": 0.9405215873718262,
+    "confirmed_at": 27.933333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        141.0,
+        838.0,
+        161.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.8,
+    "track_id": 63
+  },
+  {
+    "confidence": 0.9426849384307863,
+    "confirmed_at": 27.933333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        121.0,
+        838.0,
+        141.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.8,
+    "track_id": 64
+  },
+  {
+    "confidence": 0.8929167671203613,
+    "confirmed_at": 27.933333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        161.0,
+        838.0,
+        181.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 27.8,
+    "track_id": 65
+  },
+  {
+    "confidence": 0.8595699863433839,
+    "confirmed_at": 28.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        814.0,
+        141.0,
+        831.0,
+        161.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.0,
+    "track_id": 66
+  },
+  {
+    "confidence": 0.8675095272064209,
+    "confirmed_at": 28.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        814.0,
+        121.0,
+        831.0,
+        141.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.0,
+    "track_id": 67
+  },
+  {
+    "confidence": 0.8045415935516358,
+    "confirmed_at": 28.133333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        814.0,
+        161.0,
+        831.0,
+        181.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.0,
+    "track_id": 68
+  },
+  {
+    "confidence": 0.8858487548828126,
+    "confirmed_at": 28.266666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        815.0,
+        121.0,
+        823.0,
+        141.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.133333333333333,
+    "track_id": 69
+  },
+  {
+    "confidence": 0.8843024139404296,
+    "confirmed_at": 28.266666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        815.0,
+        141.0,
+        823.0,
+        161.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.133333333333333,
+    "track_id": 70
+  },
+  {
+    "confidence": 0.8516565055847168,
+    "confirmed_at": 28.266666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        815.0,
+        160.0,
+        823.0,
+        180.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.133333333333333,
+    "track_id": 71
+  },
+  {
+    "confidence": 0.9131353149414063,
+    "confirmed_at": 28.6,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        348.0,
+        257.0,
+        369.0,
+        281.0
+      ],
+      "last_seen": 28.133333333333333,
+      "missing_seconds": 0.40000000000000213,
+      "subtype": "snowball"
+    },
+    "timestamp": 28.2,
+    "track_id": 50
+  },
+  {
+    "confidence": 0.8628750019073487,
+    "confirmed_at": 28.8,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        792.0,
+        339.0,
+        814.0,
+        361.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 28.666666666666668,
+    "track_id": 72
+  },
+  {
+    "confidence": 0.8093832817077636,
+    "confirmed_at": 29.333333333333332,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        327.0,
+        158.0,
+        335.0,
+        178.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 29.2,
+    "track_id": 73
+  },
+  {
+    "confidence": 0.87915358543396,
+    "confirmed_at": 29.466666666666665,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        816.0,
+        339.0,
+        838.0,
+        361.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 29.333333333333332,
+    "track_id": 74
+  },
+  {
+    "confidence": 0.7668586254119873,
+    "confirmed_at": 29.666666666666668,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        333.0,
+        158.0,
+        341.0,
+        178.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 29.533333333333335,
+    "track_id": 75
+  },
+  {
+    "confidence": 0.8893394451141358,
+    "confirmed_at": 30.866666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        818.0,
+        338.0,
+        839.0,
+        361.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "bomb",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 30.733333333333334,
+    "track_id": 76
+  },
+  {
+    "confidence": 0.8920686283111573,
+    "confirmed_at": 32.06666666666667,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        825.0,
+        337.0,
+        847.0,
+        361.0
+      ],
+      "last_seen": 31.6,
+      "missing_seconds": 0.40000000000000213,
+      "subtype": "bomb"
+    },
+    "timestamp": 31.666666666666668,
+    "track_id": 76
+  },
+  {
+    "confidence": 0.8970488300323487,
+    "confirmed_at": 32.6,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        785.0,
+        338.0,
+        806.0,
+        361.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "bomb",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 32.46666666666667,
+    "track_id": 77
+  },
+  {
+    "confidence": 0.8866800270080567,
+    "confirmed_at": 36.666666666666664,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        826.0,
+        337.0,
+        848.0,
+        361.0
+      ],
+      "last_seen": 36.2,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "bomb"
+    },
+    "timestamp": 36.266666666666666,
+    "track_id": 77
+  },
+  {
+    "confidence": 0.8642360248565675,
+    "confirmed_at": 37.06666666666667,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        815.0,
+        339.0,
+        837.0,
+        361.0
+      ],
+      "last_seen": 36.6,
+      "missing_seconds": 0.4000000000000057,
+      "subtype": "snowball"
+    },
+    "timestamp": 36.666666666666664,
+    "track_id": 74
+  },
+  {
+    "confidence": 0.8596267833709718,
+    "confirmed_at": 37.333333333333336,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        796.0,
+        338.0,
+        817.0,
+        361.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 37.2,
+    "track_id": 78
+  },
+  {
+    "confidence": 0.9116276626586914,
+    "confirmed_at": 38.06666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        825.0,
+        338.0,
+        846.0,
+        361.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "bomb",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 37.93333333333333,
+    "track_id": 79
+  },
+  {
+    "confidence": 0.8688929805755615,
+    "confirmed_at": 38.86666666666667,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        830.0,
+        337.0,
+        852.0,
+        361.0
+      ],
+      "last_seen": 38.4,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "bomb"
+    },
+    "timestamp": 38.46666666666667,
+    "track_id": 79
+  },
+  {
+    "confidence": 0.927329948425293,
+    "confirmed_at": 39.53333333333333,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        815.0,
+        356.0,
+        837.0,
+        380.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "bomb",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 39.4,
+    "track_id": 80
+  },
+  {
+    "confidence": 0.8486548755471618,
+    "confirmed_at": 39.93333333333333,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 30,
+      "new_count": 158,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "158",
+      "old_count": 128,
+      "support_frames": 3
+    },
+    "timestamp": 39.8,
+    "track_id": null
+  },
+  {
+    "confidence": 0.8722741947174073,
+    "confirmed_at": 40.666666666666664,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        825.0,
+        356.0,
+        847.0,
+        380.0
+      ],
+      "last_seen": 40.2,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "bomb"
+    },
+    "timestamp": 40.266666666666666,
+    "track_id": 80
+  },
+  {
+    "confidence": 0.8779465866088868,
+    "confirmed_at": 41.266666666666666,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        831.0,
+        357.0,
+        853.0,
+        379.0
+      ],
+      "last_seen": 40.8,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "snowball"
+    },
+    "timestamp": 40.86666666666667,
+    "track_id": 78
+  },
+  {
+    "confidence": 0.821054651260376,
+    "confirmed_at": 41.733333333333334,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        824.0,
+        356.0,
+        845.0,
+        380.0
+      ],
+      "last_seen": 41.266666666666666,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "snowball"
+    },
+    "timestamp": 41.333333333333336,
+    "track_id": 72
+  },
+  {
+    "confidence": 0.9238823890686035,
+    "confirmed_at": 42.666666666666664,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        721.0,
+        323.0,
+        743.0,
+        347.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 42.53333333333333,
+    "track_id": 81
+  },
+  {
+    "confidence": 0.8989808521270752,
+    "confirmed_at": 43.0,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        789.0,
+        298.0,
+        810.0,
+        322.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 42.86666666666667,
+    "track_id": 82
+  },
+  {
+    "confidence": 0.8911534538269044,
+    "confirmed_at": 43.13333333333333,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        811.0,
+        300.0,
+        832.0,
+        322.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "bomb",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 43.0,
+    "track_id": 83
+  },
+  {
+    "confidence": 0.8814755401611328,
+    "confirmed_at": 43.93333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        623.0,
+        300.0,
+        645.0,
+        322.0
+      ],
+      "last_seen": 43.46666666666667,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "snowball"
+    },
+    "timestamp": 43.53333333333333,
+    "track_id": 81
+  },
+  {
+    "confidence": 0.8784394283294678,
+    "confirmed_at": 44.86666666666667,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        626.0,
+        298.0,
+        648.0,
+        322.0
+      ],
+      "last_seen": 44.4,
+      "missing_seconds": 0.3999999999999986,
+      "subtype": "snowball"
+    },
+    "timestamp": 44.46666666666667,
+    "track_id": 82
+  },
+  {
+    "confidence": 0.8050273418426515,
+    "confirmed_at": 45.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        321.0,
+        199.0,
+        329.0,
+        219.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 45.46666666666667,
+    "track_id": 85
+  },
+  {
+    "confidence": 0.7391146240234375,
+    "confirmed_at": 45.93333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        318.0,
+        197.0,
+        326.0,
+        217.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 45.8,
+    "track_id": 86
+  },
+  {
+    "confidence": 0.7752543334960937,
+    "confirmed_at": 45.93333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        338.0,
+        197.0,
+        346.0,
+        217.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 45.8,
+    "track_id": 87
+  },
+  {
+    "confidence": 0.907312261581421,
+    "confirmed_at": 46.06666666666667,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        629.0,
+        298.0,
+        651.0,
+        322.0
+      ],
+      "last_seen": 45.6,
+      "missing_seconds": 0.4000000000000057,
+      "subtype": "bomb"
+    },
+    "timestamp": 45.666666666666664,
+    "track_id": 83
+  },
+  {
+    "confidence": 0.6550670642047034,
+    "confirmed_at": 46.13333333333333,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 4,
+      "new_count": 162,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "162",
+      "old_count": 158,
+      "support_frames": 3
+    },
+    "timestamp": 46.0,
+    "track_id": null
+  },
+  {
+    "confidence": 0.6459182659957377,
+    "confirmed_at": 46.46666666666667,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 1,
+      "new_count": 163,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "163",
+      "old_count": 162,
+      "support_frames": 3
+    },
+    "timestamp": 46.333333333333336,
+    "track_id": null
+  },
+  {
+    "confidence": 0.8492960777282714,
+    "confirmed_at": 46.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        329.0,
+        202.0,
+        332.0,
+        222.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 46.46666666666667,
+    "track_id": 89
+  },
+  {
+    "confidence": 0.819708476042414,
+    "confirmed_at": 47.86666666666667,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 2,
+      "new_count": 165,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "165",
+      "old_count": 163,
+      "support_frames": 3
+    },
+    "timestamp": 47.733333333333334,
+    "track_id": null
+  },
+  {
+    "confidence": 0.8285825099945069,
+    "confirmed_at": 53.13333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        222.0,
+        830.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 53.0,
+    "track_id": 94
+  },
+  {
+    "confidence": 0.7641090888977051,
+    "confirmed_at": 53.266666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        809.0,
+        222.0,
+        823.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 53.13333333333333,
+    "track_id": 95
+  },
+  {
+    "confidence": 0.9190414333343506,
+    "confirmed_at": 53.4,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        808.0,
+        222.0,
+        811.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 53.266666666666666,
+    "track_id": 96
+  },
+  {
+    "confidence": 0.8696104278564454,
+    "confirmed_at": 53.46666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        222.0,
+        818.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 53.333333333333336,
+    "track_id": 97
+  },
+  {
+    "confidence": 0.8151573505401613,
+    "confirmed_at": 53.53333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        815.0,
+        222.0,
+        829.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 53.4,
+    "track_id": 98
+  },
+  {
+    "confidence": 0.8652033081054687,
+    "confirmed_at": 53.666666666666664,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        805.0,
+        222.0,
+        825.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 53.53333333333333,
+    "track_id": 99
+  },
+  {
+    "confidence": 0.7987251358032227,
+    "confirmed_at": 54.06666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        746.0,
+        222.0,
+        760.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 53.93333333333333,
+    "track_id": 100
+  },
+  {
+    "confidence": 0.8251329994201662,
+    "confirmed_at": 54.06666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        766.0,
+        222.0,
+        780.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 53.93333333333333,
+    "track_id": 101
+  },
+  {
+    "confidence": 0.8161791458129883,
+    "confirmed_at": 54.06666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        786.0,
+        222.0,
+        800.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 53.93333333333333,
+    "track_id": 102
+  },
+  {
+    "confidence": 0.884445978164673,
+    "confirmed_at": 57.0,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        222.0,
+        838.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 56.86666666666667,
+    "track_id": 106
+  },
+  {
+    "confidence": 0.8911642665863038,
+    "confirmed_at": 57.06666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        838.0,
+        222.0,
+        846.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 56.93333333333333,
+    "track_id": 107
+  },
+  {
+    "confidence": 0.854639165878296,
+    "confirmed_at": 57.333333333333336,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        809.0,
+        222.0,
+        826.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 57.2,
+    "track_id": 108
+  },
+  {
+    "confidence": 0.8950769577026368,
+    "confirmed_at": 57.46666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        804.0,
+        222.0,
+        821.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 57.333333333333336,
+    "track_id": 109
+  },
+  {
+    "confidence": 0.9302145195007324,
+    "confirmed_at": 57.53333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        811.0,
+        222.0,
+        825.0,
+        242.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 57.4,
+    "track_id": 110
+  },
+  {
+    "confidence": 0.8690843238830568,
+    "confirmed_at": 58.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        818.0,
+        262.0,
+        832.0,
+        282.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.46666666666667,
+    "track_id": 111
+  },
+  {
+    "confidence": 0.875089153289795,
+    "confirmed_at": 58.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        818.0,
+        242.0,
+        832.0,
+        262.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.46666666666667,
+    "track_id": 112
+  },
+  {
+    "confidence": 0.8615649948120119,
+    "confirmed_at": 58.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        818.0,
+        282.0,
+        832.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.46666666666667,
+    "track_id": 113
+  },
+  {
+    "confidence": 0.8178643035888673,
+    "confirmed_at": 58.666666666666664,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        829.0,
+        282.0,
+        837.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.53333333333333,
+    "track_id": 114
+  },
+  {
+    "confidence": 0.8243693885803224,
+    "confirmed_at": 58.666666666666664,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        829.0,
+        262.0,
+        837.0,
+        282.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.53333333333333,
+    "track_id": 115
+  },
+  {
+    "confidence": 0.817454122543335,
+    "confirmed_at": 58.666666666666664,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        829.0,
+        242.0,
+        837.0,
+        262.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.53333333333333,
+    "track_id": 116
+  },
+  {
+    "confidence": 0.8747175807952882,
+    "confirmed_at": 58.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        821.0,
+        242.0,
+        829.0,
+        262.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.666666666666664,
+    "track_id": 117
+  },
+  {
+    "confidence": 0.8702520637512208,
+    "confirmed_at": 58.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        821.0,
+        262.0,
+        829.0,
+        282.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.666666666666664,
+    "track_id": 118
+  },
+  {
+    "confidence": 0.8650285263061523,
+    "confirmed_at": 58.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        821.0,
+        282.0,
+        829.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 58.666666666666664,
+    "track_id": 119
+  },
+  {
+    "confidence": 0.8543951053619385,
+    "confirmed_at": 60.13333333333333,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        795.0,
+        301.0,
+        818.0,
+        327.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "flying_snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 60.0,
+    "track_id": 120
+  },
+  {
+    "confidence": 0.9069355583190919,
+    "confirmed_at": 62.86666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        790.0,
+        355.0,
+        812.0,
+        379.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 62.733333333333334,
+    "track_id": 121
+  },
+  {
+    "confidence": 0.8464517707824708,
+    "confirmed_at": 63.266666666666666,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        817.0,
+        355.0,
+        839.0,
+        379.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333286
+    },
+    "timestamp": 63.13333333333333,
+    "track_id": 122
+  },
+  {
+    "confidence": 0.8790459270477295,
+    "confirmed_at": 67.06666666666666,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        821.0,
+        357.0,
+        843.0,
+        379.0
+      ],
+      "last_seen": 66.6,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "snowball"
+    },
+    "timestamp": 66.66666666666667,
+    "track_id": 122
+  },
+  {
+    "confidence": 0.8934719486236573,
+    "confirmed_at": 68.4,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        830.0,
+        354.0,
+        852.0,
+        379.0
+      ],
+      "last_seen": 67.93333333333334,
+      "missing_seconds": 0.4000000000000057,
+      "subtype": "smart_snowball"
+    },
+    "timestamp": 68.0,
+    "track_id": 121
+  },
+  {
+    "confidence": 0.8374475027596033,
+    "confirmed_at": 69.06666666666666,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 123,
+      "new_count": 288,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "288",
+      "old_count": 165,
+      "support_frames": 3
+    },
+    "timestamp": 68.93333333333334,
+    "track_id": null
+  },
+  {
+    "confidence": 0.9426475925445558,
+    "confirmed_at": 70.6,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        811.0,
+        298.0,
+        833.0,
+        321.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "smart_snowball",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 70.46666666666667,
+    "track_id": 125
+  },
+  {
+    "confidence": 0.7514336147308349,
+    "confirmed_at": 70.86666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        798.0,
+        242.0,
+        812.0,
+        262.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 70.73333333333333,
+    "track_id": 126
+  },
+  {
+    "confidence": 0.7395398139953613,
+    "confirmed_at": 70.93333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        249.0,
+        818.0,
+        269.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 70.8,
+    "track_id": 127
+  },
+  {
+    "confidence": 0.855671989440918,
+    "confirmed_at": 71.0,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        822.0,
+        265.0,
+        825.0,
+        285.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 70.86666666666666,
+    "track_id": 128
+  },
+  {
+    "confidence": 0.9588143253326417,
+    "confirmed_at": 71.13333333333334,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        819.0,
+        330.0,
+        841.0,
+        352.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "snowball",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 71.0,
+    "track_id": 129
+  },
+  {
+    "confidence": 0.8554427604675293,
+    "confirmed_at": 71.13333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        819.0,
+        272.0,
+        833.0,
+        292.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 71.0,
+    "track_id": 130
+  },
+  {
+    "confidence": 0.910616762161255,
+    "confirmed_at": 71.26666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        826.0,
+        272.0,
+        846.0,
+        292.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 71.13333333333334,
+    "track_id": 131
+  },
+  {
+    "confidence": 0.9104287643432618,
+    "confirmed_at": 72.0,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        347.0,
+        252.0,
+        370.0,
+        278.0
+      ],
+      "last_seen": 71.53333333333333,
+      "missing_seconds": 0.4000000000000057,
+      "subtype": "flying_snowball"
+    },
+    "timestamp": 71.6,
+    "track_id": 120
+  },
+  {
+    "confidence": 0.8181376037597657,
+    "confirmed_at": 74.4,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        817.0,
+        57.0,
+        842.0,
+        82.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "spiky",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 74.26666666666667,
+    "track_id": 139
+  },
+  {
+    "confidence": 0.8483764209747315,
+    "confirmed_at": 74.53333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        338.0,
+        298.0,
+        360.0,
+        321.0
+      ],
+      "last_seen": 74.06666666666666,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "smart_snowball"
+    },
+    "timestamp": 74.13333333333334,
+    "track_id": 125
+  },
+  {
+    "confidence": 0.7560373439788819,
+    "confirmed_at": 75.33333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        818.0,
+        153.0,
+        843.0,
+        178.0
+      ],
+      "last_seen": 74.86666666666666,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "spiky"
+    },
+    "timestamp": 74.93333333333334,
+    "track_id": 139
+  },
+  {
+    "confidence": 0.8170318603515625,
+    "confirmed_at": 75.53333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        370.0,
+        299.0,
+        391.0,
+        322.0
+      ],
+      "last_seen": 75.06666666666666,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "snowball"
+    },
+    "timestamp": 75.13333333333334,
+    "track_id": 129
+  },
+  {
+    "confidence": 0.6761616172790528,
+    "confirmed_at": 76.66666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        743.0,
+        256.0,
+        746.0,
+        276.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 76.53333333333333,
+    "track_id": 142
+  },
+  {
+    "confidence": 0.711307544708252,
+    "confirmed_at": 76.93333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        783.0,
+        295.0,
+        786.0,
+        315.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 76.8,
+    "track_id": 143
+  },
+  {
+    "confidence": 0.8172121353149415,
+    "confirmed_at": 78.93333333333334,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        789.0,
+        53.0,
+        814.0,
+        78.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "spiky",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 78.8,
+    "track_id": 148
+  },
+  {
+    "confidence": 0.8802017860412598,
+    "confirmed_at": 79.13333333333334,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        282.0,
+        838.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 79.0,
+    "track_id": 149
+  },
+  {
+    "confidence": 0.8639557991027832,
+    "confirmed_at": 79.4,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        824.0,
+        282.0,
+        838.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 79.26666666666667,
+    "track_id": 150
+  },
+  {
+    "confidence": 0.8241916313171387,
+    "confirmed_at": 79.53333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        813.0,
+        302.0,
+        816.0,
+        322.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 79.4,
+    "track_id": 152
+  },
+  {
+    "confidence": 0.8016971149444581,
+    "confirmed_at": 79.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        798.0,
+        262.0,
+        806.0,
+        282.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 79.46666666666667,
+    "track_id": 151
+  },
+  {
+    "confidence": 0.7910883121490478,
+    "confirmed_at": 79.6,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        818.0,
+        282.0,
+        826.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 79.46666666666667,
+    "track_id": 154
+  },
+  {
+    "confidence": 0.7791312561035156,
+    "confirmed_at": 79.73333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        810.0,
+        282.0,
+        827.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 79.6,
+    "track_id": 156
+  },
+  {
+    "confidence": 0.8418235034942627,
+    "confirmed_at": 79.86666666666666,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        803.0,
+        282.0,
+        820.0,
+        302.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 79.73333333333333,
+    "track_id": 158
+  },
+  {
+    "confidence": 0.7695658435821534,
+    "confirmed_at": 80.06666666666666,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        632.0,
+        58.0,
+        657.0,
+        83.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "spiky",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 79.93333333333334,
+    "track_id": 159
+  },
+  {
+    "confidence": 0.7643868904113771,
+    "confirmed_at": 80.13333333333334,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        700.0,
+        153.0,
+        725.0,
+        178.0
+      ],
+      "last_seen": 79.66666666666667,
+      "missing_seconds": 0.4000000000000057,
+      "subtype": "spiky"
+    },
+    "timestamp": 79.73333333333333,
+    "track_id": 148
+  },
+  {
+    "confidence": 0.6912884464263916,
+    "confirmed_at": 80.53333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        207.0,
+        295.0,
+        210.0,
+        315.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 80.4,
+    "track_id": 160
+  },
+  {
+    "confidence": 0.7481155090332032,
+    "confirmed_at": 81.26666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        569.0,
+        57.0,
+        594.0,
+        83.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "spiky",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 81.13333333333334,
+    "track_id": 164
+  },
+  {
+    "confidence": 0.7533762798309327,
+    "confirmed_at": 81.33333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        571.0,
+        152.0,
+        596.0,
+        178.0
+      ],
+      "last_seen": 80.86666666666666,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "spiky"
+    },
+    "timestamp": 80.93333333333334,
+    "track_id": 159
+  },
+  {
+    "confidence": 0.7708948364257814,
+    "confirmed_at": 82.46666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        463.0,
+        58.0,
+        488.0,
+        83.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "spiky",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 82.33333333333333,
+    "track_id": 167
+  },
+  {
+    "confidence": 0.7579317283630371,
+    "confirmed_at": 82.53333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        534.0,
+        152.0,
+        559.0,
+        178.0
+      ],
+      "last_seen": 82.06666666666666,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "spiky"
+    },
+    "timestamp": 82.13333333333334,
+    "track_id": 164
+  },
+  {
+    "confidence": 0.7101394786834717,
+    "confirmed_at": 82.53333333333333,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        56.0,
+        255.0,
+        59.0,
+        275.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 82.4,
+    "track_id": 168
+  },
+  {
+    "confidence": 0.6731349143981934,
+    "confirmed_at": 82.8,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        84.0,
+        295.0,
+        87.0,
+        315.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 82.66666666666667,
+    "track_id": 166
+  },
+  {
+    "confidence": 0.7606937236785889,
+    "confirmed_at": 83.66666666666667,
+    "event": "enemy_detected",
+    "evidence": {
+      "bbox": [
+        397.0,
+        61.0,
+        422.0,
+        87.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "enemy",
+      "subtype": "spiky",
+      "visible_seconds": 0.13333333333333997
+    },
+    "timestamp": 83.53333333333333,
+    "track_id": 172
+  },
+  {
+    "confidence": 0.7548923683166504,
+    "confirmed_at": 83.73333333333333,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        420.0,
+        152.0,
+        445.0,
+        178.0
+      ],
+      "last_seen": 83.26666666666667,
+      "missing_seconds": 0.4000000000000057,
+      "subtype": "spiky"
+    },
+    "timestamp": 83.33333333333333,
+    "track_id": 167
+  },
+  {
+    "confidence": 0.7718276157379151,
+    "confirmed_at": 84.8,
+    "event": "enemy_disappeared",
+    "evidence": {
+      "confidence_note": "uncalibrated heuristic score",
+      "grace_seconds": 0.35,
+      "label": "enemy",
+      "last_bbox": [
+        387.0,
+        126.0,
+        412.0,
+        152.0
+      ],
+      "last_seen": 84.33333333333333,
+      "missing_seconds": 0.3999999999999915,
+      "subtype": "spiky"
+    },
+    "timestamp": 84.4,
+    "track_id": 172
+  },
+  {
+    "confidence": 0.8584959335327149,
+    "confirmed_at": 87.26666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        478.0,
+        190.0,
+        486.0,
+        210.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 87.13333333333334,
+    "track_id": 173
+  },
+  {
+    "confidence": 0.8622792625427247,
+    "confirmed_at": 87.26666666666667,
+    "event": "item_detected",
+    "evidence": {
+      "bbox": [
+        458.0,
+        190.0,
+        466.0,
+        210.0
+      ],
+      "confidence_note": "uncalibrated heuristic score",
+      "consecutive_observations": 3,
+      "label": "coin",
+      "subtype": "coin",
+      "visible_seconds": 0.13333333333332575
+    },
+    "timestamp": 87.13333333333334,
+    "track_id": 174
+  },
+  {
+    "confidence": 0.682819907388617,
+    "confirmed_at": 88.86666666666666,
+    "event": "coin_count_changed",
+    "evidence": {
+      "delta": 22,
+      "new_count": 310,
+      "ocr_bbox": [
+        823,
+        7,
+        847,
+        19
+      ],
+      "ocr_digits": "310",
+      "old_count": 288,
+      "support_frames": 3
+    },
+    "timestamp": 88.73333333333333,
+    "track_id": null
+  }
+]

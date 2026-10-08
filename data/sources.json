@@ -1,0 +1,505 @@
+{
+  "supertux_commit": "c1ddb4f28c54de77f07aa9965231a91c0ed06708",
+  "videos": {
+    "development": {
+      "path": "data/videos/development.webm",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/83/Super_Tux_-_Welcome_to_Antarctica_%28Walkthrough_by_PantheraLeo1359531%29_2023.01.29_-_12.27.00.08.webm/Super_Tux_-_Welcome_to_Antarctica_%28Walkthrough_by_PantheraLeo1359531%29_2023.01.29_-_12.27.00.08.webm.480p.vp9.webm",
+      "sha256": "4a783789454d833d3f5f634beda8b07d08a260d78fb34ca72cf0ac80df1ced9c",
+      "bytes": 12271168,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Super_Tux_-_Welcome_to_Antarctica_(Walkthrough_by_PantheraLeo1359531)_2023.01.29_-_12.27.00.08.webm",
+      "title": "Super Tux - Welcome to Antarctica (Walkthrough by PantheraLeo1359531) 2023.01.29 - 12.27.00.08.webm",
+      "creator": "PantheraLeo1359531",
+      "license_as_listed": "GPL-3.0-or-later",
+      "transcode": "480p.vp9.webm",
+      "role": "development"
+    },
+    "evaluation": {
+      "path": "data/videos/evaluation.webm",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/transcoded/d/dd/Super_Tux_-_The_Journey_Begins_%28Walkthrough_by_PantheraLeo1359531%29_2023.01.29_-_12.30.19.10.webm/Super_Tux_-_The_Journey_Begins_%28Walkthrough_by_PantheraLeo1359531%29_2023.01.29_-_12.30.19.10.webm.480p.vp9.webm",
+      "sha256": "43ac46cb2faf3d8d325a2e2eca11c37512cc392d5d1ae529770e7a39b5efacee",
+      "bytes": 13030603,
+      "source_page": "https://commons.wikimedia.org/wiki/File:Super_Tux_-_The_Journey_Begins_(Walkthrough_by_PantheraLeo1359531)_2023.01.29_-_12.30.19.10.webm",
+      "title": "Super Tux - The Journey Begins (Walkthrough by PantheraLeo1359531) 2023.01.29 - 12.30.19.10.webm",
+      "creator": "PantheraLeo1359531",
+      "license_as_listed": "GPL-3.0-or-later",
+      "transcode": "480p.vp9.webm",
+      "role": "evaluation"
+    }
+  },
+  "assets": [
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-0.png",
+      "sha256": "f8eadf9e3081553fcc91ae1cfa4469be3a03350eb263c68d6af8e2feb8d0a5e9",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-1.png",
+      "sha256": "bb9abec80e8a5cb0d61d991ddfe5a5dff426095f3eb994eba8e2cf1f46e9a58a",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-2.png",
+      "sha256": "c3a04b63d53edc55267c409fa281255aa909733ef36dc93c3a3a294fdb83181f",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-3.png",
+      "sha256": "34eb6d0300c544973d83b72ffb24ad1372401d8b7d78e053ac0b77b621b2efb9",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-4.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-4.png",
+      "sha256": "bef10ae58cb8fbdc4fafc23578115e9e0ea4ee7bfc39670f67880f6f65aa628d",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-5.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-5.png",
+      "sha256": "2aae23e521beda3d81a95cedff6f1be7337af54b5d6c596f96a06139ba145ec9",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-6.png",
+      "sha256": "4a0fb5eba54b9f34f546c56ff1957cf0ff050e8b4088b350fb52a06d82c38934",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball-7.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball-7.png",
+      "sha256": "f1ec21f85c0a411eded446e46cd5d464f6719cd1522f66e3e70b8e1e393b5286",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-0.png",
+      "sha256": "c3cfd55886e7ac8a48c80275fc02205f360c24cda3eabc95053d6771b4abac1f",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-1.png",
+      "sha256": "50738da812ab02a4ca8d5330ddebf7986cd9233d075787cc80c375af09d946cd",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-2.png",
+      "sha256": "12a2c75c7ae44497006322a66a03f1356da8bbb828a715e34c9ff128c06a5d54",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-3.png",
+      "sha256": "697b597cd1127c37f0eb702c1981acd1304a11b4331c727839faf7da4b709f68",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-4.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-4.png",
+      "sha256": "c9a15087e6538ee310c0926e1c1728fdff68b25cb89513965532a8e5adf81657",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-5.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-5.png",
+      "sha256": "b28a76b9e081d39934fa7871fd389e7daf9585c83e8f73d7e7fa9977e81c004b",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-6.png",
+      "sha256": "ae2d0d95bbc85101651000299e3a9bd2391ab526808587641c7f8cca3221925b",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/iceblock-7.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/iceblock-7.png",
+      "sha256": "be9454568160c73043762cdd55669f00e6edbd4dddb4071f8b6d1467dcce65b6",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-0.png",
+      "sha256": "626a84dbfa09d5cdcdb41da2d33ad8bd8cd97f275171a57c8af46192d204ff9d",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-1.png",
+      "sha256": "ecd1baa8e1e80641e2555887b060906cf1d760e536769522b1e260630274d9b6",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-2.png",
+      "sha256": "27ecacc8c4a30667a281cabef53e9de602456cdcada9b5731904dad8bd85cffb",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-3.png",
+      "sha256": "091104327fb9b6b00190e4a061acc5ef9a72566be2ec5b0d5f646046b4818ab1",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-4.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-4.png",
+      "sha256": "a68e248683d8bffd564f445d873de07d74247d70e3f48ea49a1bc63739722bd6",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-5.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-5.png",
+      "sha256": "a3c1c453c55add36b5883f0905336dab1fe02ff883727391403b68f5f4b47121",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-6.png",
+      "sha256": "0d48aef4a26dcddcbf5a08fe4cd7a4af4432cc7b18cc0d3b5f9e78bec3f70453",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-7.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-7.png",
+      "sha256": "6eb2d703511496d16c1f92bc011e6e26c832e9ea66a7d2788201d9d57530a958",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-8.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-8.png",
+      "sha256": "d609af7ede214c33bed3034e1355fdd885002606390fdda4039e110ea70dcdf5",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-9.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-9.png",
+      "sha256": "81d6115656dcefdd76b458167c21cab4abbe370a0a1415bf85646b3e11d0b5f6",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-10.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-10.png",
+      "sha256": "a6c44e85c35b383f5af275005872ec1d83a1b49679b68ec57840253572f041e2",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-11.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-11.png",
+      "sha256": "158f9d349739c4f32b7cc858bc47e6843ff35fa196a3a5e2dd0662152693ebfe",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-12.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-12.png",
+      "sha256": "434f53ac1eaf6ef16cf5ba52bb3c4f0afac310823a83754804b1cea671bf0c44",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-13.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-13.png",
+      "sha256": "5c112bd71d293fb3be1553c4e34a891abd5e4e12cf1c14df338da4887615e309",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-14.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-14.png",
+      "sha256": "51d9d3fdf78f3bf5a8ccacc7a2cfd3666b64268ba8b09edec23773d5161bda67",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin-15.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin-15.png",
+      "sha256": "ceda6c474d23c499505a38babe9e2b4c6de0fa52674a917c995f6bdc8304adfc",
+      "bytes": 4254
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/snowball.sprite",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/snowball.sprite",
+      "sha256": "8d21ffd638b680a6521f8f59c11a791ed279249912e38600acf571edd87af4ef",
+      "bytes": 1286
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/mr_iceblock.sprite",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/mr_iceblock.sprite",
+      "sha256": "15f588be6259a3221a7409909dc0380b0005a8b19c34ef4c62043d42dffa14ad",
+      "bytes": 1718
+    },
+    {
+      "path": "assets/upstream/data/images/objects/coin/coin.sprite",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/objects/coin/coin.sprite",
+      "sha256": "3e7b967e7e27a1a4ffa42e78a0f5adaaa1b1c895d358c311c3b3abdadbefbb59",
+      "bytes": 851
+    },
+    {
+      "path": "assets/upstream/data/fonts/white.stf",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/fonts/white.stf",
+      "sha256": "b0a4fd0e838bc00cdab41b397f576f2d01ebd6b514c77b984d58f19267dfe315",
+      "bytes": 1004
+    },
+    {
+      "path": "assets/upstream/data/fonts/README",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/fonts/README",
+      "sha256": "7a4f191626bbbec2cc14238f77bf33378948c9e8d1b3334c51ec82a594a59f64",
+      "bytes": 1141
+    },
+    {
+      "path": "assets/upstream/data/images/engine/fonts/white.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/engine/fonts/white.png",
+      "sha256": "5948fad5328abf96395fec322d96a02f97c154ae43c1ca112c5a2de969120fae",
+      "bytes": 107644
+    },
+    {
+      "path": "assets/upstream/LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/LICENSE.txt",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903",
+      "bytes": 35147
+    },
+    {
+      "path": "assets/upstream/README.md",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/README.md",
+      "sha256": "82056166fbbd1d817a8f629fd312f3201ea50c53aa0241e8e3378cdc614f122a",
+      "bytes": 5268
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-0.png",
+      "sha256": "258672319caf66e8f704ed0b53cbb93f08c2285c8561048fac819d23877de3cb",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-1.png",
+      "sha256": "bc093530c225ba6e36ee082b52efde6c2e773ce721bc6c0bedd868ec847f778b",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-2.png",
+      "sha256": "2d66185a3f1b6c3ea12602b842e2330a1b052a98b92f4ec2b385b4151ec6d7aa",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-3.png",
+      "sha256": "c4577bfc69fd875850b7c7b4985e4309c5131a6af5eddbd5d378ff771aaebf5d",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-4.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-4.png",
+      "sha256": "24a004ff1ec055f64b19553f154d69b26c79404d197cc18883686b3e2d693512",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-5.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-5.png",
+      "sha256": "de6db12880e1183d5b672957559ee6e9de0fc171b69fc61c972afcb5e902ceff",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-6.png",
+      "sha256": "7dd201a826b6412b688d576b653623c33bfe2286b628b382bb75799d21a16127",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/snowball/smartball-7.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/snowball/smartball-7.png",
+      "sha256": "9fdd7330732697361b97fa8ac43af03abcf16971838f15beffebd708a0749ed1",
+      "bytes": 8576
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/jumpy/left-up.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/jumpy/left-up.png",
+      "sha256": "c20c9dfb81ba651020283f8099abfa9cbdd61c0605fd715567f28050c4bb5f69",
+      "bytes": 2481
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/jumpy/left-middle.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/jumpy/left-middle.png",
+      "sha256": "fcbd1aa9955f57777f42140069a4ca2bee326de180d15f602f3b2255ada39ce2",
+      "bytes": 2260
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/jumpy/left-down.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/jumpy/left-down.png",
+      "sha256": "ce7e2935e39adb9819b2d5b2b4e2e5e3f0d13e37eb901ca53e85c72ae29d6461",
+      "bytes": 2136
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/stomped-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/stomped-0.png",
+      "sha256": "834b5e21e3d1e5bdac4cd28252e9807aeaa1a2b9014013f9b40f1965be873615",
+      "bytes": 7914
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/waking-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/waking-0.png",
+      "sha256": "4ff1996e3525e330f96a400b38b280d030e5c455fc04decc691bf0c1f1d48fea",
+      "bytes": 7856
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/waking-3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/waking-3.png",
+      "sha256": "71327952bb6c562688ee10cd9d6fce4bd5fc47a5238f089fd955ec5ea70188e8",
+      "bytes": 7856
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_iceblock/waking-6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_iceblock/waking-6.png",
+      "sha256": "612e9cf13153449d70e82161ef16f47773b9fd005043c252b07237085a7bc4ac",
+      "bytes": 7856
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk1.png",
+      "sha256": "2243d017c4967acab0df340832c90ff121fdda4d6bffe8e4a15374a4fd531edd",
+      "bytes": 4114
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk2.png",
+      "sha256": "52230a242b8ebb5383cea7db81d6a6510f42b1507c94c17074307196dfa33829",
+      "bytes": 4107
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk3.png",
+      "sha256": "4d4f969b0239a2b826fa021b543130dd5dad1bd8ca571a65deb4f9ad23840276",
+      "bytes": 4023
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk4.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk4.png",
+      "sha256": "4eb2894688e5f9d8bce87488453f5ca08a0e50ccb2b24388a56c9e8375c58536",
+      "bytes": 4018
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk5.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk5.png",
+      "sha256": "b259a700c339c99409c46ab28581afcb5b5958dbbdecbe9794f0589ab4cf0986",
+      "bytes": 4170
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk6.png",
+      "sha256": "7f4f1ab8595787253bd69238a4aa74ed05e5d424f804034b41a1538677e49d6f",
+      "bytes": 4215
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk7.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk7.png",
+      "sha256": "01acc0abc912c964a2fd8679df8ef21163925e09bd2c4441d9a58344853f3e2e",
+      "bytes": 4148
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/spiky/spikywalk8.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/spiky/spikywalk8.png",
+      "sha256": "0f3e63f0312ed62736e76fa08f0dbcc7d9cd1f217530f7ed289a3174cf08606c",
+      "bytes": 4096
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/jumpy/wooden-up.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/jumpy/wooden-up.png",
+      "sha256": "69a6445f66ad85997c248b01c988012a3d1a8ed5f3fccf86d4f0056423e0c42e",
+      "bytes": 5726
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/jumpy/wooden-middle.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/jumpy/wooden-middle.png",
+      "sha256": "866936a2d79309211f5e27d18502703a0d7b8bed8e28c5a3e4e872a13c38f2ba",
+      "bytes": 5653
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/jumpy/wooden-down.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/jumpy/wooden-down.png",
+      "sha256": "d37eb3a073f190c9fcf4691e53613553790e3d6ab5e981300dbbe2358076afa2",
+      "bytes": 5314
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb1.png",
+      "sha256": "4bf6f8611d19efe18cc377783ae5951662e490fbbcdd835d8b6ae92420b7a307",
+      "bytes": 3421
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb2.png",
+      "sha256": "db2db88e496c98ced3e83c6b03d55e5c8264c0ea40624395d60af8e34c40579d",
+      "bytes": 3423
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb3.png",
+      "sha256": "9310e1239f77160a696e9d1922973c19cc7344699c9ace72feb3529abcdd1380",
+      "bytes": 3085
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb4.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb4.png",
+      "sha256": "23db12f5a515b1ce9b702eb7a079ac7452aa2d978eafe533342c201db1d59574",
+      "bytes": 3169
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb5.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb5.png",
+      "sha256": "cffa0ef561aebcbffb1f88dbc4ec29d4fd8dccceb3c65adeae8223f7697fa471",
+      "bytes": 3354
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb6.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb6.png",
+      "sha256": "1fc0c57b9063399f6de01e66f83f5af5118b4ab7985c93f5bf053a0ecfd63e9a",
+      "bytes": 3408
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb7.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb7.png",
+      "sha256": "9390567a951e9a2584bbe948304e5526c17e6879ae60974621dec3a853d3591c",
+      "bytes": 3043
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/mr_bomb/bomb8.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/mr_bomb/bomb8.png",
+      "sha256": "78c736902081db3187d3bfd73c30463326cfdd3012747d595327bd48d9f61143",
+      "bytes": 3183
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/flying_snowball/left-0.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/flying_snowball/left-0.png",
+      "sha256": "e3d843314287012c903c14a33726170cf976f84c4fed571be02ee24b452d9327",
+      "bytes": 3978
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/flying_snowball/left-1.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/flying_snowball/left-1.png",
+      "sha256": "35be96b0a4cc125b93f900a06d466b2939d85c9b5ae21e40dd810c3490e8e6fb",
+      "bytes": 3703
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/flying_snowball/left-2.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/flying_snowball/left-2.png",
+      "sha256": "ee19405f33046ccff7aa15c3686d7750a176d6fc7b7213dcae78728b196bb0ef",
+      "bytes": 3617
+    },
+    {
+      "path": "assets/upstream/data/images/creatures/flying_snowball/left-3.png",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/images/creatures/flying_snowball/left-3.png",
+      "sha256": "95c7cce4c17df1045ae1ec3a6034037f6d036a439255b2e0fd7abae7223900ab",
+      "bytes": 3701
+    },
+    {
+      "path": "assets/upstream/data/credits.stxt",
+      "url": "https://raw.githubusercontent.com/SuperTux/supertux/c1ddb4f28c54de77f07aa9965231a91c0ed06708/data/credits.stxt",
+      "sha256": "78e11f6e27b2fdda71284561b02472f040dda200ffae100f6bf6af894b84383d",
+      "bytes": 28448
+    }
+  ]
+}

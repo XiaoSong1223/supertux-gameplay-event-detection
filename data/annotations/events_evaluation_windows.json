@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.0",
+  "video_id": "evaluation",
+  "source_video": "data/videos/evaluation.webm",
+  "source_fps": 60.0,
+  "annotation_fps": 5.0,
+  "annotator": "AI-assisted visual annotation, not independently human audited",
+  "annotation_method": "Manual visual inspection of the frozen raw 5 fps tracking samples only; no detector, tracker, event prediction, source-level coordinate, or engine-state output was viewed.",
+  "scoring_intervals": [
+    [8.5, 10.5],
+    [38.5, 40.5],
+    [68.5, 70.5]
+  ],
+  "interval_semantics": "half-open",
+  "event_types": [
+    "enemy_detected",
+    "enemy_disappeared",
+    "item_detected"
+  ],
+  "timing_uncertainty_seconds": 0.2,
+  "edge_exclusion": "References are retained only when their first observable boundary is inside a scoring interval. Objects already visible at an interval's left edge and episodes continuing past its right edge emit no boundary event. The 0.5 second margin on each three-second source segment avoids unobserved prehistory and right-edge censoring.",
+  "scope_override": "This is a reduced three-window event diagnostic derived from raw frames sampled at 5 fps. It does not cover the full video or the originally planned 15 fps event reference. Reference timestamps are the first sampled frame showing the boundary and therefore have up to 0.2 seconds sampling uncertainty.",
+  "events": [
+    {
+      "event_id": "window-event-001",
+      "event": "item_detected",
+      "timestamp": 9.4,
+      "episode_id": "track-01-coin-a",
+      "segment_id": "track-01",
+      "timing_uncertainty_seconds": 0.2
+    },
+    {
+      "event_id": "window-event-002",
+      "event": "enemy_detected",
+      "timestamp": 9.8,
+      "episode_id": "track-01-enemy-b",
+      "segment_id": "track-01",
+      "timing_uncertainty_seconds": 0.2
+    },
+    {
+      "event_id": "window-event-003",
+      "event": "item_detected",
+      "timestamp": 9.8,
+      "episode_id": "track-01-coin-b",
+      "segment_id": "track-01",
+      "timing_uncertainty_seconds": 0.2
+    },
+    {
+      "event_id": "window-event-004",
+      "event": "enemy_disappeared",
+      "timestamp": 10.0,
+      "episode_id": "track-01-enemy-a",
+      "segment_id": "track-01",
+      "timing_uncertainty_seconds": 0.2
+    },
+    {
+      "event_id": "window-event-005",
+      "event": "item_detected",
+      "timestamp": 10.0,
+      "episode_id": "track-01-coin-c",
+      "segment_id": "track-01",
+      "timing_uncertainty_seconds": 0.2
+    },
+    {
+      "event_id": "window-event-006",
+      "event": "enemy_detected",
+      "timestamp": 10.2,
+      "episode_id": "track-01-enemy-c",
+      "segment_id": "track-01",
+      "timing_uncertainty_seconds": 0.2
+    },
+    {
+      "event_id": "window-event-007",
+      "event": "enemy_detected",
+      "timestamp": 38.6,
+      "episode_id": "track-02-enemy-c",
+      "segment_id": "track-02",
+      "timing_uncertainty_seconds": 0.2,
+      "notes": "First sampled frame with partial but classifiable visibility at the right image edge."
+    },
+    {
+      "event_id": "window-event-008",
+      "event": "enemy_detected",
+      "timestamp": 69.2,
+      "episode_id": "track-03-enemy-a",
+      "segment_id": "track-03",
+      "timing_uncertainty_seconds": 0.2,
+      "notes": "First sampled frame with partial but classifiable visibility at the right image edge."
+    }
+  ]
+}

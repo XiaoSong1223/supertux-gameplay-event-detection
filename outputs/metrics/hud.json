@@ -1,0 +1,402 @@
+{
+  "schema_version": "1.0",
+  "evaluation": "frozen_coin_counter_fixed_frames",
+  "inputs": {
+    "annotations": "data/annotations/hud_evaluation.json",
+    "annotations_sha256": "c0aaf113a0a7c14e3447a89c9e395922aa33e00b928fb888aede5daf3678f4de",
+    "video": "data/videos/evaluation.webm",
+    "freeze": "data/freeze.json",
+    "verified_frozen_inputs": {
+      "src/gameplay_events/hud.py": "923721c47186a2fc40f00f19631372ad9a25d5b0cded5a32a64aa9d48fbbde11",
+      "assets/hud/coin_digits_v1.npz": "178399dbd90868664feb6955e03950072162ca4bf323d19dbe211729060d1f2b"
+    },
+    "source_fps": 60.0,
+    "source_size": [
+      854,
+      480
+    ]
+  },
+  "annotation_provenance": "AI-assisted visual, no human independent audit",
+  "counts": {
+    "sampled_frames": 40,
+    "evaluable_labels": 40,
+    "label_ambiguous": 0,
+    "accepted": 0,
+    "correct": 0,
+    "wrong": 0,
+    "rejected": 40
+  },
+  "metrics": {
+    "coverage": 0.0,
+    "accepted_read_exact_accuracy": null,
+    "overall_exact_rate_including_rejections": 0.0
+  },
+  "metric_notes": {
+    "coverage": "accepted / evaluable labels",
+    "accepted_read_exact_accuracy": "exact count matches / accepted reads; abstentions excluded",
+    "overall_exact_rate_including_rejections": "exact count matches / evaluable labels; abstentions count as misses",
+    "confidence": "Frozen reader heuristic, not a calibrated probability"
+  },
+  "frames": [
+    {
+      "sample": 1,
+      "frame_index": 120,
+      "timestamp": 2.0,
+      "ground_truth_count": 347,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 2,
+      "frame_index": 258,
+      "timestamp": 4.3,
+      "ground_truth_count": 347,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 3,
+      "frame_index": 397,
+      "timestamp": 6.616667,
+      "ground_truth_count": 348,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 4,
+      "frame_index": 535,
+      "timestamp": 8.916667,
+      "ground_truth_count": 350,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 5,
+      "frame_index": 674,
+      "timestamp": 11.233333,
+      "ground_truth_count": 350,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 6,
+      "frame_index": 812,
+      "timestamp": 13.533333,
+      "ground_truth_count": 351,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 7,
+      "frame_index": 951,
+      "timestamp": 15.85,
+      "ground_truth_count": 355,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 8,
+      "frame_index": 1089,
+      "timestamp": 18.15,
+      "ground_truth_count": 355,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 9,
+      "frame_index": 1228,
+      "timestamp": 20.466667,
+      "ground_truth_count": 355,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 10,
+      "frame_index": 1366,
+      "timestamp": 22.766667,
+      "ground_truth_count": 355,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 11,
+      "frame_index": 1505,
+      "timestamp": 25.083333,
+      "ground_truth_count": 356,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 12,
+      "frame_index": 1643,
+      "timestamp": 27.383333,
+      "ground_truth_count": 356,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 13,
+      "frame_index": 1782,
+      "timestamp": 29.7,
+      "ground_truth_count": 356,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 14,
+      "frame_index": 1920,
+      "timestamp": 32.0,
+      "ground_truth_count": 356,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 15,
+      "frame_index": 2058,
+      "timestamp": 34.3,
+      "ground_truth_count": 356,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 16,
+      "frame_index": 2197,
+      "timestamp": 36.616667,
+      "ground_truth_count": 356,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 17,
+      "frame_index": 2335,
+      "timestamp": 38.916667,
+      "ground_truth_count": 362,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 18,
+      "frame_index": 2474,
+      "timestamp": 41.233333,
+      "ground_truth_count": 362,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 19,
+      "frame_index": 2612,
+      "timestamp": 43.533333,
+      "ground_truth_count": 362,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 20,
+      "frame_index": 2751,
+      "timestamp": 45.85,
+      "ground_truth_count": 362,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 21,
+      "frame_index": 2889,
+      "timestamp": 48.15,
+      "ground_truth_count": 363,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 22,
+      "frame_index": 3028,
+      "timestamp": 50.466667,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 23,
+      "frame_index": 3166,
+      "timestamp": 52.766667,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 24,
+      "frame_index": 3305,
+      "timestamp": 55.083333,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 25,
+      "frame_index": 3443,
+      "timestamp": 57.383333,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 26,
+      "frame_index": 3582,
+      "timestamp": 59.7,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 27,
+      "frame_index": 3720,
+      "timestamp": 62.0,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 28,
+      "frame_index": 3858,
+      "timestamp": 64.3,
+      "ground_truth_count": 367,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 29,
+      "frame_index": 3997,
+      "timestamp": 66.616667,
+      "ground_truth_count": 368,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 30,
+      "frame_index": 4135,
+      "timestamp": 68.916667,
+      "ground_truth_count": 375,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 31,
+      "frame_index": 4274,
+      "timestamp": 71.233333,
+      "ground_truth_count": 375,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 32,
+      "frame_index": 4412,
+      "timestamp": 73.533333,
+      "ground_truth_count": 377,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 33,
+      "frame_index": 4551,
+      "timestamp": 75.85,
+      "ground_truth_count": 380,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 34,
+      "frame_index": 4689,
+      "timestamp": 78.15,
+      "ground_truth_count": 380,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 35,
+      "frame_index": 4828,
+      "timestamp": 80.466667,
+      "ground_truth_count": 381,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 36,
+      "frame_index": 4966,
+      "timestamp": 82.766667,
+      "ground_truth_count": 381,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 37,
+      "frame_index": 5105,
+      "timestamp": 85.083333,
+      "ground_truth_count": 387,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 38,
+      "frame_index": 5243,
+      "timestamp": 87.383333,
+      "ground_truth_count": 387,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 39,
+      "frame_index": 5382,
+      "timestamp": 89.7,
+      "ground_truth_count": 387,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    },
+    {
+      "sample": 40,
+      "frame_index": 5520,
+      "timestamp": 92.0,
+      "ground_truth_count": 387,
+      "predicted_count": null,
+      "confidence": null,
+      "status": "rejected"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "frame_index": 120,
+    "timestamp": 2.0,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 258,
+    "timestamp": 4.3,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 397,
+    "timestamp": 6.616667,
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6666666666666666
+  },
+  {
+    "frame_index": 535,
+    "timestamp": 8.916667,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 674,
+    "timestamp": 11.233333,
+    "tp": 6,
+    "fp": 1,
+    "fn": 0,
+    "precision": 0.8571428571428571,
+    "recall": 1.0,
+    "f1": 0.9230769230769231
+  },
+  {
+    "frame_index": 812,
+    "timestamp": 13.533333,
+    "tp": 3,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 951,
+    "timestamp": 15.85,
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6666666666666666
+  },
+  {
+    "frame_index": 1089,
+    "timestamp": 18.15,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 1228,
+    "timestamp": 20.466667,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 1366,
+    "timestamp": 22.766667,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null
+  },
+  {
+    "frame_index": 1505,
+    "timestamp": 25.083333,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 1643,
+    "timestamp": 27.383333,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 1782,
+    "timestamp": 29.7,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 1920,
+    "timestamp": 32.0,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 2058,
+    "timestamp": 34.3,
+    "tp": 2,
+    "fp": 4,
+    "fn": 4,
+    "precision": 0.3333333333333333,
+    "recall": 0.3333333333333333,
+    "f1": 0.3333333333333333
+  },
+  {
+    "frame_index": 2197,
+    "timestamp": 36.616667,
+    "tp": 6,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 2335,
+    "timestamp": 38.916667,
+    "tp": 3,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1": 0.8571428571428571
+  },
+  {
+    "frame_index": 2474,
+    "timestamp": 41.233333,
+    "tp": 1,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1": 0.6666666666666666
+  },
+  {
+    "frame_index": 2612,
+    "timestamp": 43.533333,
+    "tp": 5,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 2751,
+    "timestamp": 45.85,
+    "tp": 4,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1": 0.8888888888888888
+  },
+  {
+    "frame_index": 2889,
+    "timestamp": 48.15,
+    "tp": 2,
+    "fp": 2,
+    "fn": 2,
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5
+  },
+  {
+    "frame_index": 3028,
+    "timestamp": 50.466667,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 3166,
+    "timestamp": 52.766667,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 3305,
+    "timestamp": 55.083333,
+    "tp": 8,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 3443,
+    "timestamp": 57.383333,
+    "tp": 8,
+    "fp": 1,
+    "fn": 0,
+    "precision": 0.8888888888888888,
+    "recall": 1.0,
+    "f1": 0.9411764705882353
+  },
+  {
+    "frame_index": 3582,
+    "timestamp": 59.7,
+    "tp": 8,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 3720,
+    "timestamp": 62.0,
+    "tp": 8,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.8888888888888888,
+    "f1": 0.9411764705882353
+  },
+  {
+    "frame_index": 3858,
+    "timestamp": 64.3,
+    "tp": 7,
+    "fp": 0,
+    "fn": 1,
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1": 0.9333333333333333
+  },
+  {
+    "frame_index": 3997,
+    "timestamp": 66.616667,
+    "tp": 6,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.8571428571428571,
+    "recall": 0.8571428571428571,
+    "f1": 0.8571428571428571
+  },
+  {
+    "frame_index": 4135,
+    "timestamp": 68.916667,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null
+  },
+  {
+    "frame_index": 4274,
+    "timestamp": 71.233333,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 4412,
+    "timestamp": 73.533333,
+    "tp": 1,
+    "fp": 1,
+    "fn": 1,
+    "precision": 0.5,
+    "recall": 0.5,
+    "f1": 0.5
+  },
+  {
+    "frame_index": 4551,
+    "timestamp": 75.85,
+    "tp": 3,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 4689,
+    "timestamp": 78.15,
+    "tp": 2,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 4828,
+    "timestamp": 80.466667,
+    "tp": 1,
+    "fp": 0,
+    "fn": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  {
+    "frame_index": 4966,
+    "timestamp": 82.766667,
+    "tp": 0,
+    "fp": 0,
+    "fn": 1,
+    "precision": null,
+    "recall": 0.0,
+    "f1": 0.0
+  },
+  {
+    "frame_index": 5105,
+    "timestamp": 85.083333,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null
+  },
+  {
+    "frame_index": 5243,
+    "timestamp": 87.383333,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null
+  },
+  {
+    "frame_index": 5382,
+    "timestamp": 89.7,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null
+  },
+  {
+    "frame_index": 5520,
+    "timestamp": 92.0,
+    "tp": 0,
+    "fp": 0,
+    "fn": 0,
+    "precision": null,
+    "recall": null,
+    "f1": null
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "purpose": "Post-run factual metadata addendum; original run.json preserved unchanged",
+  "tracker": {
+    "confirmation_hits": 1,
+    "distance_weight": 0.35,
+    "max_age_seconds": 0.35,
+    "max_center_distance": 35.0,
+    "min_iou": 0.01,
+    "velocity_smoothing": 0.5
+  },
+  "event_engine": {
+    "appearance_confirmation_hits": 3,
+    "appearance_confirmation_seconds": null,
+    "disappearance_grace_seconds": 0.35
+  },
+  "camera_motion": {
+    "cut_correlation_threshold": 0.3,
+    "cut_difference_threshold": 0.08,
+    "fb_max_error": 1.5,
+    "hud_height": 28,
+    "max_corners": 500,
+    "max_translation": 96.0,
+    "min_distance": 7.0,
+    "min_inlier_ratio": 0.45,
+    "min_points": 12,
+    "quality_level": 0.01
+  },
+  "coin_counter": {
+    "confirm_frames": 3,
+    "confirm_seconds": 0.08,
+    "max_digits": 4,
+    "min_read_confidence": 0.58
+  },
+  "note": "Both full runs imported the original pipeline before metadata logging was expanded. These effective settings are confirmed by the pipeline construction; algorithm files were unchanged."
+}

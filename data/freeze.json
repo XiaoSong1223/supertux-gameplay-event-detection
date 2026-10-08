@@ -1,0 +1,35 @@
+{
+  "frozen_at_utc": "2026-10-08T14:49:23.510803+00:00",
+  "files": {
+    "src/gameplay_events/detection.py": "e1c8f788fd181dd6eec4327481724e73dde777ce513d4dd9e492b7cc320894cf",
+    "assets/templates/detector.json": "66a9189cd1e67d4722d8861f39dd4b456aa460d22c062ce2253ddc2c982f6ba8",
+    "src/gameplay_events/tracking.py": "d8b33f0e3df05efb7d8b752bee8ad9b6cd047e0f54c7aecf4047598260792a84",
+    "src/gameplay_events/events.py": "71467645144211cd945d06cf4e302b6d023af31ca903334106f26d1adb5d3489",
+    "src/gameplay_events/camera.py": "f6f95524ee03d93f1bfbb2b28b6463f972ad80f118fe7bf573b724113bc1f96e",
+    "src/gameplay_events/hud.py": "923721c47186a2fc40f00f19631372ad9a25d5b0cded5a32a64aa9d48fbbde11",
+    "assets/hud/coin_digits_v1.npz": "178399dbd90868664feb6955e03950072162ca4bf323d19dbe211729060d1f2b"
+  },
+  "sampling_fps": 15,
+  "tracking": {
+    "max_age_seconds": 0.35,
+    "confirmation_hits": 2,
+    "max_center_distance": 35
+  },
+  "events": {
+    "appearance_confirmation_hits": 3,
+    "disappearance_grace_seconds": 0.35
+  },
+  "evaluation_interval_seconds": [
+    2,
+    92
+  ],
+  "annotation_provenance": "Independent AI-assisted visual annotation; no human audit claimed",
+  "note": "Frozen after development-only template validation. Evaluation annotator independent; no labels or model predictions used for detector tuning.",
+  "execution_configuration_correction": {
+    "recorded_at": "2026-10-09 SGT, packaging audit",
+    "field": "tracking.confirmation_hits",
+    "original_freeze_record": 2,
+    "actual_pipeline_value": 1,
+    "explanation": "The pipeline configured 1 from its first smoke/full inference. The original freeze summary was not synchronized with that pipeline setting. This is a factual record correction, not a held-out tuning change; appearance confirmation remained 3 observed frames. Frozen core file hashes are unchanged."
+  }
+}

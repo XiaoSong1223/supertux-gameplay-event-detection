@@ -1,0 +1,300 @@
+{
+  "ground_truth_sha256": "ac597fc7c0d1f141043c27a2b9614287d3bd7387fab4890ba7ce512285eb5e5e",
+  "scoring_intervals": [
+    [
+      8.5,
+      10.5
+    ],
+    [
+      38.5,
+      40.5
+    ],
+    [
+      68.5,
+      70.5
+    ]
+  ],
+  "scope": "Three 2-second interiors; 5 fps visual reference, <=0.2 s sampling uncertainty; not full-video accuracy",
+  "matching": "One-to-one same-type timestamp match within 0.5 s; event-to-object identity is not scored",
+  "full_run_event_counts": {
+    "smoothing": {
+      "enemy_detected": 42,
+      "enemy_disappeared": 42,
+      "item_detected": 36
+    },
+    "no_smoothing": {
+      "enemy_detected": 49,
+      "enemy_disappeared": 49,
+      "item_detected": 48
+    }
+  },
+  "smoothing": {
+    "tolerance_seconds": 0.5,
+    "require_coin_count_value_match": false,
+    "per_event_type": {
+      "enemy_detected": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "reference_count": 4,
+        "prediction_count": 4,
+        "mean_signed_error_seconds": 0.049999999999998934,
+        "mean_absolute_error_seconds": 0.08333333333333304,
+        "median_absolute_error_seconds": 0.0666666666666682,
+        "mean_confirmation_latency_seconds": 0.18333333333333401,
+        "coin_count_value_comparable": 0,
+        "coin_count_value_matches": 0,
+        "coin_count_value_mismatches": 0,
+        "coin_count_value_accuracy": null,
+        "matches": [
+          {
+            "reference_index": 1,
+            "prediction_index": 2,
+            "signed_error_seconds": -0.0666666666666682,
+            "absolute_error_seconds": 0.0666666666666682,
+            "confirmation_latency_seconds": 0.06666666666666643,
+            "detector_confirmation_delay_seconds": 0.13333333333333464,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 5,
+            "prediction_index": 3,
+            "signed_error_seconds": 0.0666666666666682,
+            "absolute_error_seconds": 0.0666666666666682,
+            "confirmation_latency_seconds": 0.20000000000000107,
+            "detector_confirmation_delay_seconds": 0.13333333333333286,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 6,
+            "prediction_index": 4,
+            "signed_error_seconds": 0.13333333333333286,
+            "absolute_error_seconds": 0.13333333333333286,
+            "confirmation_latency_seconds": 0.2666666666666657,
+            "detector_confirmation_delay_seconds": 0.13333333333333286,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 7,
+            "prediction_index": 5,
+            "signed_error_seconds": 0.06666666666666288,
+            "absolute_error_seconds": 0.06666666666666288,
+            "confirmation_latency_seconds": 0.20000000000000284,
+            "detector_confirmation_delay_seconds": 0.13333333333333997,
+            "coin_count_value_match": null
+          }
+        ]
+      },
+      "enemy_disappeared": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": null,
+        "recall": 0.0,
+        "f1": 0.0,
+        "reference_count": 1,
+        "prediction_count": 0,
+        "mean_signed_error_seconds": null,
+        "mean_absolute_error_seconds": null,
+        "median_absolute_error_seconds": null,
+        "mean_confirmation_latency_seconds": null,
+        "coin_count_value_comparable": 0,
+        "coin_count_value_matches": 0,
+        "coin_count_value_mismatches": 0,
+        "coin_count_value_accuracy": null,
+        "matches": []
+      },
+      "item_detected": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 1,
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8,
+        "reference_count": 3,
+        "prediction_count": 2,
+        "mean_signed_error_seconds": -0.10000000000000053,
+        "mean_absolute_error_seconds": 0.10000000000000053,
+        "median_absolute_error_seconds": 0.10000000000000053,
+        "mean_confirmation_latency_seconds": 0.033333333333333215,
+        "coin_count_value_comparable": 0,
+        "coin_count_value_matches": 0,
+        "coin_count_value_mismatches": 0,
+        "coin_count_value_accuracy": null,
+        "matches": [
+          {
+            "reference_index": 0,
+            "prediction_index": 0,
+            "signed_error_seconds": -0.13333333333333286,
+            "absolute_error_seconds": 0.13333333333333286,
+            "confirmation_latency_seconds": 0.0,
+            "detector_confirmation_delay_seconds": 0.13333333333333286,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 2,
+            "prediction_index": 1,
+            "signed_error_seconds": -0.0666666666666682,
+            "absolute_error_seconds": 0.0666666666666682,
+            "confirmation_latency_seconds": 0.06666666666666643,
+            "detector_confirmation_delay_seconds": 0.13333333333333464,
+            "coin_count_value_match": null
+          }
+        ]
+      }
+    },
+    "micro": {
+      "tp": 6,
+      "fp": 0,
+      "fn": 2,
+      "precision": 1.0,
+      "recall": 0.75,
+      "f1": 0.8571428571428571,
+      "mean_signed_error_seconds": -8.881784197001252e-16,
+      "mean_absolute_error_seconds": 0.08888888888888886,
+      "mean_confirmation_latency_seconds": 0.13333333333333375
+    }
+  },
+  "no_smoothing": {
+    "tolerance_seconds": 0.5,
+    "require_coin_count_value_match": false,
+    "per_event_type": {
+      "enemy_detected": {
+        "tp": 4,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "reference_count": 4,
+        "prediction_count": 4,
+        "mean_signed_error_seconds": 0.049999999999998934,
+        "mean_absolute_error_seconds": 0.08333333333333304,
+        "median_absolute_error_seconds": 0.0666666666666682,
+        "mean_confirmation_latency_seconds": 0.049999999999998934,
+        "coin_count_value_comparable": 0,
+        "coin_count_value_matches": 0,
+        "coin_count_value_mismatches": 0,
+        "coin_count_value_accuracy": null,
+        "matches": [
+          {
+            "reference_index": 1,
+            "prediction_index": 2,
+            "signed_error_seconds": -0.0666666666666682,
+            "absolute_error_seconds": 0.0666666666666682,
+            "confirmation_latency_seconds": -0.0666666666666682,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 5,
+            "prediction_index": 4,
+            "signed_error_seconds": 0.0666666666666682,
+            "absolute_error_seconds": 0.0666666666666682,
+            "confirmation_latency_seconds": 0.0666666666666682,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 6,
+            "prediction_index": 5,
+            "signed_error_seconds": 0.13333333333333286,
+            "absolute_error_seconds": 0.13333333333333286,
+            "confirmation_latency_seconds": 0.13333333333333286,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 7,
+            "prediction_index": 6,
+            "signed_error_seconds": 0.06666666666666288,
+            "absolute_error_seconds": 0.06666666666666288,
+            "confirmation_latency_seconds": 0.06666666666666288,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          }
+        ]
+      },
+      "enemy_disappeared": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": null,
+        "recall": 0.0,
+        "f1": 0.0,
+        "reference_count": 1,
+        "prediction_count": 0,
+        "mean_signed_error_seconds": null,
+        "mean_absolute_error_seconds": null,
+        "median_absolute_error_seconds": null,
+        "mean_confirmation_latency_seconds": null,
+        "coin_count_value_comparable": 0,
+        "coin_count_value_matches": 0,
+        "coin_count_value_mismatches": 0,
+        "coin_count_value_accuracy": null,
+        "matches": []
+      },
+      "item_detected": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "reference_count": 3,
+        "prediction_count": 3,
+        "mean_signed_error_seconds": -0.022222222222222737,
+        "mean_absolute_error_seconds": 0.11111111111111131,
+        "median_absolute_error_seconds": 0.13333333333333286,
+        "mean_confirmation_latency_seconds": -0.022222222222222737,
+        "coin_count_value_comparable": 0,
+        "coin_count_value_matches": 0,
+        "coin_count_value_mismatches": 0,
+        "coin_count_value_accuracy": null,
+        "matches": [
+          {
+            "reference_index": 0,
+            "prediction_index": 0,
+            "signed_error_seconds": -0.13333333333333286,
+            "absolute_error_seconds": 0.13333333333333286,
+            "confirmation_latency_seconds": -0.13333333333333286,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 2,
+            "prediction_index": 1,
+            "signed_error_seconds": -0.0666666666666682,
+            "absolute_error_seconds": 0.0666666666666682,
+            "confirmation_latency_seconds": -0.0666666666666682,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          },
+          {
+            "reference_index": 4,
+            "prediction_index": 3,
+            "signed_error_seconds": 0.13333333333333286,
+            "absolute_error_seconds": 0.13333333333333286,
+            "confirmation_latency_seconds": 0.13333333333333286,
+            "detector_confirmation_delay_seconds": 0.0,
+            "coin_count_value_match": null
+          }
+        ]
+      }
+    },
+    "micro": {
+      "tp": 7,
+      "fp": 0,
+      "fn": 1,
+      "precision": 1.0,
+      "recall": 0.875,
+      "f1": 0.9333333333333333,
+      "mean_signed_error_seconds": 0.01904761904761822,
+      "mean_absolute_error_seconds": 0.09523809523809515,
+      "mean_confirmation_latency_seconds": 0.01904761904761822
+    }
+  }
+}

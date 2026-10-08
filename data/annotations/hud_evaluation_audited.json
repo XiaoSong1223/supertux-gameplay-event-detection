@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.1",
+  "video_id": "evaluation",
+  "source_video": "data/videos/evaluation.webm",
+  "source_fps": 60.0,
+  "processed_size": [854, 480],
+  "annotator": "AI-assisted visual, no human independent audit",
+  "annotation_method": "Second manual visual pass over enlarged HUD crops from the 40 raw frames saved by sequential decoding. No model output was used to choose labels.",
+  "selection": {
+    "count": 40,
+    "interval_seconds": [2.0, 92.0],
+    "rule": "Same frozen detection schedule: linspace including endpoints, mapped to nearest 60 fps source frame",
+    "frozen_before_hud_inference": true
+  },
+  "audit": {
+    "supersedes": "data/annotations/hud_evaluation.json",
+    "superseded_sha256": "c0aaf113a0a7c14e3447a89c9e395922aa33e00b928fb888aede5daf3678f4de",
+    "review_scope": "All 40 samples were re-read, not only the reported discrepancy.",
+    "source_frame_verification": "All 40 saved raw sample PNGs were pixel-identical to a fresh sequential decode. A direct random seek to frame 2889 was also pixel-identical, so the correction is a visual-label error rather than a frame-selection mismatch.",
+    "unchanged_samples": 39,
+    "corrections": [
+      {
+        "sample": 21,
+        "frame_index": 2889,
+        "timestamp": 48.15,
+        "field": "count",
+        "old_value": 363,
+        "new_value": 365,
+        "reason": "The last glyph was re-read as 5 after enlarged comparison with known 5 and 3 glyphs and review of the surrounding monotonic sequence."
+      }
+    ]
+  },
+  "scope_notes": [
+    "Count is the raw coin number visibly rendered in the upper-right HUD.",
+    "All 40 sampled labels were visually clear; null is reserved for an unreadable or transition-ambiguous sampled frame.",
+    "These labels have not received an independent human audit."
+  ],
+  "frames": [
+    {"sample": 1, "frame_index": 120, "timestamp": 2.0, "count": 347},
+    {"sample": 2, "frame_index": 258, "timestamp": 4.3, "count": 347},
+    {"sample": 3, "frame_index": 397, "timestamp": 6.616667, "count": 348},
+    {"sample": 4, "frame_index": 535, "timestamp": 8.916667, "count": 350},
+    {"sample": 5, "frame_index": 674, "timestamp": 11.233333, "count": 350},
+    {"sample": 6, "frame_index": 812, "timestamp": 13.533333, "count": 351},
+    {"sample": 7, "frame_index": 951, "timestamp": 15.85, "count": 355},
+    {"sample": 8, "frame_index": 1089, "timestamp": 18.15, "count": 355},
+    {"sample": 9, "frame_index": 1228, "timestamp": 20.466667, "count": 355},
+    {"sample": 10, "frame_index": 1366, "timestamp": 22.766667, "count": 355},
+    {"sample": 11, "frame_index": 1505, "timestamp": 25.083333, "count": 356},
+    {"sample": 12, "frame_index": 1643, "timestamp": 27.383333, "count": 356},
+    {"sample": 13, "frame_index": 1782, "timestamp": 29.7, "count": 356},
+    {"sample": 14, "frame_index": 1920, "timestamp": 32.0, "count": 356},
+    {"sample": 15, "frame_index": 2058, "timestamp": 34.3, "count": 356},
+    {"sample": 16, "frame_index": 2197, "timestamp": 36.616667, "count": 356},
+    {"sample": 17, "frame_index": 2335, "timestamp": 38.916667, "count": 362},
+    {"sample": 18, "frame_index": 2474, "timestamp": 41.233333, "count": 362},
+    {"sample": 19, "frame_index": 2612, "timestamp": 43.533333, "count": 362},
+    {"sample": 20, "frame_index": 2751, "timestamp": 45.85, "count": 362},
+    {"sample": 21, "frame_index": 2889, "timestamp": 48.15, "count": 365},
+    {"sample": 22, "frame_index": 3028, "timestamp": 50.466667, "count": 367},
+    {"sample": 23, "frame_index": 3166, "timestamp": 52.766667, "count": 367},
+    {"sample": 24, "frame_index": 3305, "timestamp": 55.083333, "count": 367},
+    {"sample": 25, "frame_index": 3443, "timestamp": 57.383333, "count": 367},
+    {"sample": 26, "frame_index": 3582, "timestamp": 59.7, "count": 367},
+    {"sample": 27, "frame_index": 3720, "timestamp": 62.0, "count": 367},
+    {"sample": 28, "frame_index": 3858, "timestamp": 64.3, "count": 367},
+    {"sample": 29, "frame_index": 3997, "timestamp": 66.616667, "count": 368},
+    {"sample": 30, "frame_index": 4135, "timestamp": 68.916667, "count": 375},
+    {"sample": 31, "frame_index": 4274, "timestamp": 71.233333, "count": 375},
+    {"sample": 32, "frame_index": 4412, "timestamp": 73.533333, "count": 377},
+    {"sample": 33, "frame_index": 4551, "timestamp": 75.85, "count": 380},
+    {"sample": 34, "frame_index": 4689, "timestamp": 78.15, "count": 380},
+    {"sample": 35, "frame_index": 4828, "timestamp": 80.466667, "count": 381},
+    {"sample": 36, "frame_index": 4966, "timestamp": 82.766667, "count": 381},
+    {"sample": 37, "frame_index": 5105, "timestamp": 85.083333, "count": 387},
+    {"sample": 38, "frame_index": 5243, "timestamp": 87.383333, "count": 387},
+    {"sample": 39, "frame_index": 5382, "timestamp": 89.7, "count": 387},
+    {"sample": 40, "frame_index": 5520, "timestamp": 92.0, "count": 387}
+  ]
+}

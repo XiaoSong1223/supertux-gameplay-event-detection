@@ -1,0 +1,2 @@
+# Preserve byte-exact hashes for frozen code, pinned assets, and recorded outputs.
+* -text
